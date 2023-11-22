@@ -1,3 +1,8 @@
 - 실행될 때 그 환경요소로서 필요한 것들
 sadd
-dsfsd
+dsfsdsadfsad
+dsfadfsa
+dfsaasdf
+ddsd
+dsaf
+dsaf
