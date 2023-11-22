@@ -1,8 +1,8 @@
 {
-  "commitMessage": "vault backup: {{date}}",
+  "commitMessage": "Study: {{date}}",
   "commitDateFormat": "YYYY-MM-DD HH:mm:ss",
-  "autoSaveInterval": 1,
-  "autoPushInterval": 1,
+  "autoSaveInterval": 5,
+  "autoPushInterval": 5,
   "autoPullInterval": 1,
   "autoPullOnBoot": false,
   "disablePush": false,
@@ -17,7 +17,7 @@
   "treeStructure": false,
   "refreshSourceControl": true,
   "basePath": "",
-  "differentIntervalCommitAndPush": false,
+  "differentIntervalCommitAndPush": true,
   "changedFilesInStatusBar": false,
   "showedMobileNotice": true,
   "refreshSourceControlTimer": 7000,
@@ -51,5 +51,5 @@
     "lastShownAuthorDisplay": "initials",
     "lastShownDateTimeFormatOptions": "date"
   },
-  "autoCommitMessage": "vault backup: {{date}}"
+  "autoCommitMessage": "Study: {{date}}"
 }
