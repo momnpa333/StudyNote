@@ -1,0 +1,160 @@
+{
+  "main": {
+    "id": "3263da322fd23e2b",
+    "type": "split",
+    "children": [
+      {
+        "id": "16b4b63ec61f94a9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "802bd855ff98d031",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "965e4acf719bb871",
+    "type": "split",
+    "children": [
+      {
+        "id": "20ad6324f9358f9b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b229b95062d0ca73",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ae37e9ff051199d7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2aa1f24f443a94d7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "dbb8cbe3f80b3818",
+    "type": "split",
+    "children": [
+      {
+        "id": "c3c8754f09f44d7a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "13c3a72e3f08cea8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "540e4a801a3648b7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0c00593fadb28897",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "31e00170af49e47e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false
+    }
+  },
+  "active": "802bd855ff98d031",
+  "lastOpenFiles": [
+    "CS/무제 파일.md",
+    "StudyNote",
+    "무제 폴더",
+    "CS/자바/자바.md",
+    "CS/자바/자바 런타임 환경(JRE).md",
+    "CS/자바/자바 가상 머신(JVM).md",
+    "CS/자바.md",
+    "CS/자바",
+    "취업/취업 전략.md",
+    "CS/데이터통신.md",
+    "CS",
+    "데이터통신/무제 파일.md",
+    "데이터통신",
+    "학업",
+    "취업/무제 파일.md",
+    "취업"
+  ]
+}
