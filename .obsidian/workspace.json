@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/자바/JDK(자바개발도구).md",
+                "file": "취업/취업 전략.md",
                 "mode": "source",
                 "source": false
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/자바/JDK(자바개발도구).md",
+                "file": "취업/취업 전략.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/자바/JDK(자바개발도구).md",
+                "file": "취업/취업 전략.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/자바/JDK(자바개발도구).md"
+                "file": "취업/취업 전략.md"
               }
             }
           }
@@ -221,9 +221,9 @@
   },
   "active": "8a04e117e6e5edcf",
   "lastOpenFiles": [
+    "CS/자바/JDK(자바개발도구).md",
     "Pasted image 20231125030212.png",
     "CS/자바/자바.md",
-    "CS/자바/JDK(자바개발도구).md",
     "CS/자바/자바 런타임 환경(JRE).md",
     "CS/자바/자바 가상 머신(JVM).md",
     "JVM.md",
