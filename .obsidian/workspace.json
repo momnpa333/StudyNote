@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "스터디 활동/자바 일주일 복습 스터디/진행 방식.md",
+                "file": "오늘의 할일.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#task",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +78,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -98,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "스터디 활동/자바 일주일 복습 스터디/진행 방식.md",
+                "file": "오늘의 할일.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "스터디 활동/자바 일주일 복습 스터디/진행 방식.md",
+                "file": "오늘의 할일.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "스터디 활동/자바 일주일 복습 스터디/진행 방식.md"
+                "file": "오늘의 할일.md"
               }
             }
           }
@@ -159,12 +160,12 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "915f78604b7bce28",
+  "active": "ae37e9ff051199d7",
   "lastOpenFiles": [
+    "스터디 활동/자바 일주일 복습 스터디/진행 방식.md",
     "스터디 활동/자바 일주일 복습 스터디/목차.md",
     "오늘의 할일.md",
     "2023-11-24.md",
-    "스터디 활동/자바 일주일 복습 스터디/진행 방식.md",
     "무제 폴더",
     "CS/무제 파일.md",
     "CS/자바/자바 런타임 환경(JRE).md",
