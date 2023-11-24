@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "스터디 활동/자바 일주일 복습 스터디/진행 방식.md",
+                "file": "Total Todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "스터디 활동/자바 일주일 복습 스터디/진행 방식.md",
+                "file": "Total Todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "스터디 활동/자바 일주일 복습 스터디/진행 방식.md"
+                "file": "Total Todo.md"
               }
             }
           }
@@ -184,14 +184,14 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "ae37e9ff051199d7",
+  "active": "42cbb41ac6f4a537",
   "lastOpenFiles": [
+    "스터디 활동/자바 일주일 복습 스터디/진행 방식.md",
     "Study Todo.md",
     "Total Todo.md",
     "일정.md",
     "무제 폴더",
     "스터디 활동/자바 일주일 복습 스터디/목차.md",
-    "스터디 활동/자바 일주일 복습 스터디/진행 방식.md",
     "2023-11-24.md",
     "CS/무제 파일.md",
     "CS/자바/자바 런타임 환경(JRE).md",
