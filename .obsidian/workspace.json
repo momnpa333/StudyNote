@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "스터디 활동/자바 일주일 복습 스터디.md",
+                "file": "스터디 활동/자바 일주일 복습 스터디/목차.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "스터디 활동/자바 일주일 복습 스터디.md",
+                "file": "스터디 활동/자바 일주일 복습 스터디/목차.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "스터디 활동/자바 일주일 복습 스터디.md",
+                "file": "스터디 활동/자바 일주일 복습 스터디/목차.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "스터디 활동/자바 일주일 복습 스터디.md"
+                "file": "스터디 활동/자바 일주일 복습 스터디/목차.md"
               }
             }
           }
@@ -148,8 +148,10 @@
   },
   "active": "802bd855ff98d031",
   "lastOpenFiles": [
+    "스터디 활동/자바 일주일 복습 스터디/진행 방식.md",
+    "스터디 활동/자바 일주일 복습 스터디/목차.md",
+    "스터디 활동/자바 일주일 복습 스터디",
     "CS/자바/자바 런타임 환경(JRE).md",
-    "스터디 활동/자바 일주일 복습 스터디.md",
     "스터디 활동",
     "CS/자바/자바 가상 머신(JVM).md",
     "CS/자바/자바.md",
