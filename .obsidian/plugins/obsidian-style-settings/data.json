@@ -1,9 +1,6 @@
 {
-  "anuppuccin-theme-settings@@anp-colorful-frame": false,
-  "anuppuccin-theme-settings@@anp-color-transition-toggle": false,
-  "anuppuccin-theme-settings@@anp-safari-tab-animated": false,
-  "anuppuccin-theme-settings@@anuppuccin-theme-dark": "ctp-mocha-old",
-  "anuppuccin-theme-settings@@anuppuccin-theme-light": "ctp-rosepine-light",
-  "anuppuccin-theme-settings@@anuppuccin-theme-accents": "ctp-accent-rosewater",
-  "anuppuccin-theme-settings@@anuppuccin-accent-toggle": false
+  "anuppuccin-theme-settings@@anuppuccin-light-theme-accents": "none",
+  "anuppuccin-theme-settings-extended@@anp-theme-ext-light": true,
+  "anuppuccin-theme-settings-extended@@anp-theme-ext-dark": true,
+  "anuppuccin-theme-settings-extended@@anp-theme-ext-amoled": true
 }
