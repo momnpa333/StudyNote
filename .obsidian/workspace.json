@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Study Todo.md",
+                "file": "Total Todo.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +102,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -122,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Study Todo.md",
+                "file": "Total Todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Study Todo.md",
+                "file": "Total Todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Study Todo.md"
+                "file": "Total Todo.md"
               }
             }
           }
@@ -183,11 +184,11 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "42cbb41ac6f4a537",
+  "active": "ae37e9ff051199d7",
   "lastOpenFiles": [
+    "Study Todo.md",
     "Total Todo.md",
     "일정.md",
-    "Study Todo.md",
     "무제 폴더",
     "스터디 활동/자바 일주일 복습 스터디/목차.md",
     "스터디 활동/자바 일주일 복습 스터디/진행 방식.md",
