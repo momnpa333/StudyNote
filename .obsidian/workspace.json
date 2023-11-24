@@ -47,8 +47,12 @@
             "id": "42cbb41ac6f4a537",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "스터디 활동/자바 일주일 복습 스터디/진행 방식.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
