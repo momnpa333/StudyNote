@@ -49,14 +49,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/자바/자바 가상 머신(JVM).md",
+                "file": "CS/자바/자바.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9607af0ba28af5a1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS/자바/자바.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -122,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/자바/자바 가상 머신(JVM).md",
+                "file": "CS/자바/자바.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/자바/자바 가상 머신(JVM).md",
+                "file": "CS/자바/자바.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/자바/자바 가상 머신(JVM).md"
+                "file": "CS/자바/자바.md"
               }
             }
           }
@@ -183,13 +195,14 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "42cbb41ac6f4a537",
+  "active": "9607af0ba28af5a1",
   "lastOpenFiles": [
+    "CS/자바/Oak.md",
+    "CS/자바/자바.md",
+    "CS/자바/자바 가상 머신(JVM).md",
     "CS/무제 파일.md",
     "Total Todo.md",
     "Study Todo.md",
-    "CS/자바/자바.md",
-    "CS/자바/자바 가상 머신(JVM).md",
     "일정.md",
     "스터디 활동/자바 일주일 복습 스터디/진행 방식.md",
     "무제 폴더",
