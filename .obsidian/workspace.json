@@ -97,7 +97,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Study Todo.md",
+                "file": "스터디 활동/자바 일주일 복습 스터디/목차.md",
                 "mode": "source",
                 "source": false
               }
@@ -150,8 +150,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -171,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Study Todo.md",
+                "file": "스터디 활동/자바 일주일 복습 스터디/목차.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -188,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Study Todo.md",
+                "file": "스터디 활동/자바 일주일 복습 스터디/목차.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -211,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Study Todo.md"
+                "file": "스터디 활동/자바 일주일 복습 스터디/목차.md"
               }
             }
           }
@@ -234,10 +233,12 @@
   },
   "active": "3abc178f3af15351",
   "lastOpenFiles": [
+    "스터디 활동/자바 일주일 복습 스터디/진행 방식.md",
+    "스터디 활동/자바 일주일 복습 스터디/목차.md",
+    "객체 지향 언어.md",
     "일정.md",
     "Study Todo.md",
     "Total Todo.md",
-    "객체 지향 언어.md",
     "Pasted image 20231125030212.png",
     "Pasted image 20231125023624.png",
     "Pasted image 20231125023030.png",
@@ -252,9 +253,7 @@
     "취업/취업 전략.md",
     "JVM.md",
     "CS/무제 파일.md",
-    "스터디 활동/자바 일주일 복습 스터디/진행 방식.md",
     "무제 폴더",
-    "스터디 활동/자바 일주일 복습 스터디/목차.md",
     "2023-11-24.md",
     "스터디 활동/자바 일주일 복습 스터디",
     "스터디 활동",
