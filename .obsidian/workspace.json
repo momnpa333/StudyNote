@@ -97,8 +97,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Total Todo.md",
-                "mode": "preview",
+                "file": "스터디 활동/자바 일주일 복습 스터디/진행 방식.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -150,8 +150,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -171,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Total Todo.md",
+                "file": "스터디 활동/자바 일주일 복습 스터디/진행 방식.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -188,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Total Todo.md",
+                "file": "스터디 활동/자바 일주일 복습 스터디/진행 방식.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -211,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Total Todo.md"
+                "file": "스터디 활동/자바 일주일 복습 스터디/진행 방식.md"
               }
             }
           }
@@ -234,6 +233,7 @@
   },
   "active": "3abc178f3af15351",
   "lastOpenFiles": [
+    "Total Todo.md",
     "Study Todo.md",
     "Pasted image 20231125023624.png",
     "일정.md",
@@ -248,7 +248,6 @@
     "CS/자바/자바.md",
     "스터디 활동/자바 일주일 복습 스터디/진행 방식.md",
     "스터디 활동/자바 일주일 복습 스터디/목차.md",
-    "Total Todo.md",
     "CS/자바/자바 가상 머신(JVM).md",
     "Pasted image 20231125030212.png",
     "Pasted image 20231125023030.png",
