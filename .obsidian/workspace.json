@@ -97,8 +97,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "취업/취업 전략.md",
-                "mode": "preview",
+                "file": "Total Todo.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -170,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "취업/취업 전략.md",
+                "file": "Total Todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "취업/취업 전략.md",
+                "file": "Total Todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "취업/취업 전략.md"
+                "file": "Total Todo.md"
               }
             }
           }
@@ -233,6 +233,9 @@
   },
   "active": "3abc178f3af15351",
   "lastOpenFiles": [
+    "무제 파일.canvas",
+    "2023-11-25.md",
+    "취업/취업 전략.md",
     "스터디 활동/자바 일주일 복습 스터디/진행 방식.md",
     "Total Todo.md",
     "Study Todo.md",
@@ -251,7 +254,6 @@
     "CS/자바/자바 가상 머신(JVM).md",
     "Pasted image 20231125030212.png",
     "Pasted image 20231125023030.png",
-    "취업/취업 전략.md",
     "JVM.md",
     "무제 폴더",
     "2023-11-24.md",
