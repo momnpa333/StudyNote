@@ -97,7 +97,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "일정.md",
+                "file": "스터디 활동/자바 일주일 복습 스터디/목차.md",
                 "mode": "source",
                 "source": false
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "일정.md",
+                "file": "스터디 활동/자바 일주일 복습 스터디/목차.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "일정.md",
+                "file": "스터디 활동/자바 일주일 복습 스터디/목차.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "일정.md"
+                "file": "스터디 활동/자바 일주일 복습 스터디/목차.md"
               }
             }
           }
@@ -233,9 +233,9 @@
   },
   "active": "3abc178f3af15351",
   "lastOpenFiles": [
+    "일정.md",
     "Study Todo.md",
     "CS/자바/서블릿(Servlet).md",
-    "일정.md",
     "Total Todo.md",
     "CS/자바/Oak.md",
     "CS/자바/JSP.md",
