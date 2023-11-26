@@ -97,7 +97,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Total Todo.md",
+                "file": "일정.md",
                 "mode": "source",
                 "source": false
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Total Todo.md",
+                "file": "일정.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Total Todo.md",
+                "file": "일정.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Total Todo.md"
+                "file": "일정.md"
               }
             }
           }
@@ -233,9 +233,9 @@
   },
   "active": "3abc178f3af15351",
   "lastOpenFiles": [
+    "Total Todo.md",
     "CS/자바/Oak.md",
     "CS/자바/JSP.md",
-    "Total Todo.md",
     "무제 파일.canvas",
     "2023-11-25.md",
     "취업/취업 전략.md",
