@@ -97,7 +97,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/자바/자바.md",
+                "file": "CS/자바/서블릿(Servlet).md",
                 "mode": "source",
                 "source": false
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/자바/자바.md",
+                "file": "CS/자바/서블릿(Servlet).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/자바/자바.md",
+                "file": "CS/자바/서블릿(Servlet).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/자바/자바.md"
+                "file": "CS/자바/서블릿(Servlet).md"
               }
             }
           }
@@ -233,10 +233,10 @@
   },
   "active": "3abc178f3af15351",
   "lastOpenFiles": [
+    "CS/자바/자바.md",
     "CS/자바/서블릿(Servlet).md",
     "CS/자바/자바 런타임 환경(JRE).md",
     "CS/자바/자바 가상 머신(JVM).md",
-    "CS/자바/자바.md",
     "CS/자바/JSP.md",
     "2023-11-25.md",
     "CS/자바/Oak.md",
