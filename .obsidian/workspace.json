@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "취업/취업 전략.md",
+                "file": "CS/Chapter 11.md",
                 "mode": "source",
                 "source": false
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "취업/취업 전략.md",
+                "file": "CS/Chapter 11.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "취업/취업 전략.md",
+                "file": "CS/Chapter 11.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "취업/취업 전략.md"
+                "file": "CS/Chapter 11.md"
               }
             }
           }
@@ -245,6 +245,8 @@
   },
   "active": "21522e785dae8096",
   "lastOpenFiles": [
+    "취업/취업 전략.md",
+    "CS/Chapter 11.md",
     "Total Todo.md",
     "일정.md",
     "흠.md",
@@ -266,7 +268,6 @@
     "Pasted image 20231127214909.png",
     "Pasted image 20231125023624.png",
     "Pasted image 20231125023030.png",
-    "취업/취업 전략.md",
     "CS/데이터통신.md",
     "Pasted image 20231125030212.png",
     "JVM.md",
