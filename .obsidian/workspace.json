@@ -109,14 +109,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Study Todo.md",
+                "file": "CS/데이터통신/LAN.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1a7be31973679885",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS/데이터통신/LAN.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -182,7 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Study Todo.md",
+                "file": "CS/데이터통신/LAN.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +211,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Study Todo.md",
+                "file": "CS/데이터통신/LAN.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +234,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Study Todo.md"
+                "file": "CS/데이터통신/LAN.md"
               }
             }
           }
@@ -243,8 +255,13 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "21522e785dae8096",
+  "active": "1a7be31973679885",
   "lastOpenFiles": [
+    "이더넷.md",
+    "CS/데이터통신/LAN.md",
+    "Study Todo.md",
+    "CS/데이터통신/데이터통신.md",
+    "CS/데이터통신",
     "Pasted image 20231127215040.png",
     "일정.md",
     "Total Todo.md",
@@ -257,7 +274,6 @@
     "2023-11-25.md",
     "무제 파일.canvas",
     "CS/Chapter 9.md",
-    "Study Todo.md",
     "CS/자바/서블릿(Servlet).md",
     "CS/자바/JSP.md",
     "CS/자바/자바 가상 머신(JVM).md",
@@ -269,7 +285,6 @@
     "Pasted image 20231127214909.png",
     "Pasted image 20231125023624.png",
     "Pasted image 20231125023030.png",
-    "CS/데이터통신.md",
     "Pasted image 20231125030212.png",
     "JVM.md",
     "무제 폴더",
