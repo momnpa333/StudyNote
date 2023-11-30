@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/Chapter 9.md",
+                "file": "취업/취업 전략.md",
                 "mode": "source",
                 "source": false
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/Chapter 9.md",
+                "file": "취업/취업 전략.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/Chapter 9.md",
+                "file": "취업/취업 전략.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/Chapter 9.md"
+                "file": "취업/취업 전략.md"
               }
             }
           }
@@ -246,26 +246,26 @@
   "active": "21522e785dae8096",
   "lastOpenFiles": [
     "Total Todo.md",
+    "일정.md",
+    "흠.md",
+    "객체 지향 언어.md",
+    "2023-11-25.md",
+    "무제 파일.canvas",
+    "CS/Chapter 9.md",
     "Study Todo.md",
     "CS/자바/서블릿(Servlet).md",
-    "CS/Chapter 9.md",
     "CS/자바/JSP.md",
-    "흠.md",
     "CS/자바/자바 가상 머신(JVM).md",
     "CS/자바/자바.md",
     "CS/자바/JDK(자바개발도구).md",
     "CS/자바/자바 런타임 환경(JRE).md",
     "스터디 활동/자바 일주일 복습 스터디/진행 방식.md",
     "스터디 활동/자바 일주일 복습 스터디/목차.md",
-    "2023-11-25.md",
     "CS/자바/Oak.md",
     "Pasted image 20231127215040.png",
     "Pasted image 20231127214909.png",
     "Pasted image 20231125023624.png",
-    "일정.md",
     "Pasted image 20231125023030.png",
-    "무제 파일.canvas",
-    "객체 지향 언어.md",
     "취업/취업 전략.md",
     "CS/데이터통신.md",
     "Pasted image 20231125030212.png",
