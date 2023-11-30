@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/Chapter 11.md",
+                "file": "스터디 활동/자바 일주일 복습 스터디/목차.md",
                 "mode": "source",
                 "source": false
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/Chapter 11.md",
+                "file": "스터디 활동/자바 일주일 복습 스터디/목차.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/Chapter 11.md",
+                "file": "스터디 활동/자바 일주일 복습 스터디/목차.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/Chapter 11.md"
+                "file": "스터디 활동/자바 일주일 복습 스터디/목차.md"
               }
             }
           }
@@ -245,9 +245,9 @@
   },
   "active": "21522e785dae8096",
   "lastOpenFiles": [
+    "CS/Chapter 11.md",
     "취업/기술 면접의 목적.md",
     "취업/취업 전략.md",
-    "CS/Chapter 11.md",
     "Total Todo.md",
     "일정.md",
     "흠.md",
