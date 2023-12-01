@@ -8,3 +8,4 @@
 - [ ] 695 생성자사용불가
 - [ ] 696 direction of
 - [ ] 947 ftp 
+- [ ] ![[Pasted image 20231201210529.png]]
