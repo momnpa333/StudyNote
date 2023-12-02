@@ -133,7 +133,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/자바/Chapter 12.md",
+                "file": "CS/자바/Chapter 13.md",
                 "mode": "source",
                 "source": false
               }
@@ -206,7 +206,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/자바/Chapter 12.md",
+                "file": "CS/자바/Chapter 13.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -223,7 +223,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/자바/Chapter 12.md",
+                "file": "CS/자바/Chapter 13.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -246,7 +246,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/자바/Chapter 12.md"
+                "file": "CS/자바/Chapter 13.md"
               }
             }
           }
@@ -269,9 +269,10 @@
   },
   "active": "9f7e19fc41c0837d",
   "lastOpenFiles": [
+    "CS/자바/Chapter 12.md",
+    "CS/자바/Chapter 13.md",
     "Test Todo.md",
     "Study Todo.md",
-    "CS/자바/Chapter 12.md",
     "Pasted image 20231201210529.png",
     "CS/자바/Chapter 9.md",
     "CS/자바/Chapter 11.md",
@@ -303,7 +304,6 @@
     "Pasted image 20231125030212.png",
     "JVM.md",
     "무제 폴더",
-    "2023-11-24.md",
     "스터디 활동/자바 일주일 복습 스터디",
     "스터디 활동",
     "StudyNote",
