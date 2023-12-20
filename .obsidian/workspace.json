@@ -133,7 +133,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Test Todo.md",
+                "file": "Study Todo.md",
                 "mode": "source",
                 "source": false
               }
@@ -206,7 +206,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Test Todo.md",
+                "file": "Study Todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -223,7 +223,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Test Todo.md",
+                "file": "Study Todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -246,7 +246,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Test Todo.md"
+                "file": "Study Todo.md"
               }
             }
           }
@@ -269,6 +269,7 @@
   },
   "active": "9f7e19fc41c0837d",
   "lastOpenFiles": [
+    "Test Todo.md",
     "Study Todo.md",
     "학업/아름다움이란 무엇인가.md",
     "User/build/classes/java/main/KNUChat/User/global/exception/domain/NotFoundException.class",
@@ -284,7 +285,6 @@
     "User/HELP.md",
     "CS/자바/Chapter 13.md",
     "CS/자바/Chapter 12.md",
-    "Test Todo.md",
     "Pasted image 20231201210529.png",
     "CS/자바/Chapter 9.md",
     "CS/자바/Chapter 11.md",
