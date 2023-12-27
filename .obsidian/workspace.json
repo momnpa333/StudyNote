@@ -133,7 +133,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/자바/서블릿(Servlet).md",
+                "file": "일정.md",
                 "mode": "source",
                 "source": false
               }
@@ -206,7 +206,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/자바/서블릿(Servlet).md",
+                "file": "일정.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -223,7 +223,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/자바/서블릿(Servlet).md",
+                "file": "일정.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -246,7 +246,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/자바/서블릿(Servlet).md"
+                "file": "일정.md"
               }
             }
           }
@@ -269,6 +269,7 @@
   },
   "active": "9f7e19fc41c0837d",
   "lastOpenFiles": [
+    "CS/자바/서블릿(Servlet).md",
     "객체 지향 언어.md",
     "일정.md",
     "Study Todo.md",
@@ -301,7 +302,6 @@
     "흠.md",
     "2023-11-25.md",
     "무제 파일.canvas",
-    "CS/자바/서블릿(Servlet).md",
     "CS/자바/JSP.md",
     "CS/자바/자바 가상 머신(JVM).md",
     "CS/자바/자바.md",
