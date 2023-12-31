@@ -169,7 +169,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/자바/자바 가상 머신(JVM).md",
+                "file": "CS/자바/JDK(자바개발도구).md",
                 "mode": "source",
                 "source": false
               }
@@ -242,7 +242,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/자바/자바 가상 머신(JVM).md",
+                "file": "CS/자바/JDK(자바개발도구).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -259,7 +259,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/자바/자바 가상 머신(JVM).md",
+                "file": "CS/자바/JDK(자바개발도구).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -282,7 +282,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/자바/자바 가상 머신(JVM).md"
+                "file": "CS/자바/JDK(자바개발도구).md"
               }
             }
           }
@@ -305,15 +305,17 @@
   },
   "active": "b693fed679cca7cc",
   "lastOpenFiles": [
-    "가상 컴퓨터(VM).md",
-    "CS/자바/자바 가상 머신(JVM).md",
     "CS/자바/자바.md",
+    "CS/자바/JDK(자바개발도구).md",
+    "CS/자바/JDK.md",
+    "CS/자바/자바 런타임 환경(JRE).md",
+    "CS/자바/자바 가상 머신(JVM).md",
+    "가상 컴퓨터(VM).md",
     "CS/자바/서블릿(Servlet).md",
     "Hot Java.md",
     "스터디 활동/자바 일주일 복습 스터디/진행 방식.md",
     "스터디 활동/자바 일주일 복습 스터디/목차.md",
     "취업/취업 전략.md",
-    "CS/자바/자바 런타임 환경(JRE).md",
     "CS/자바/Chapter 9.md",
     "Total Todo.md",
     "일정.md",
@@ -341,8 +343,6 @@
     "CS/데이터통신/데이터통신.md",
     "Pasted image 20231127215040.png",
     "취업/기술 면접의 목적.md",
-    "흠.md",
-    "2023-11-25.md",
     "무제 파일.canvas",
     "Pasted image 20231127214909.png",
     "Pasted image 20231125023624.png",
