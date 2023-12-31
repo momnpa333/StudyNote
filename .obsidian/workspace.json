@@ -143,14 +143,28 @@
             "id": "3239b408292c7c7d",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.5.3"
+                "file": "CS/자바/자바.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e90c94e2b6caca5c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS/자바/자바.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
         ],
-        "currentTab": 11
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -216,7 +230,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "일정.md",
+                "file": "CS/자바/자바.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -233,7 +247,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "일정.md",
+                "file": "CS/자바/자바.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -256,7 +270,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "일정.md"
+                "file": "CS/자바/자바.md"
               }
             }
           }
@@ -277,11 +291,20 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "3239b408292c7c7d",
+  "active": "e90c94e2b6caca5c",
   "lastOpenFiles": [
     "CS/자바/서블릿(Servlet).md",
-    "객체 지향 언어.md",
+    "Hot Java.md",
+    "CS/자바/자바.md",
+    "스터디 활동/자바 일주일 복습 스터디/진행 방식.md",
+    "스터디 활동/자바 일주일 복습 스터디/목차.md",
+    "취업/취업 전략.md",
+    "CS/자바/자바 런타임 환경(JRE).md",
+    "CS/자바/자바 가상 머신(JVM).md",
+    "CS/자바/Chapter 9.md",
+    "Total Todo.md",
     "일정.md",
+    "객체 지향 언어.md",
     "Study Todo.md",
     "Test Todo.md",
     "학업/아름다움이란 무엇인가.md",
@@ -299,24 +322,16 @@
     "CS/자바/Chapter 13.md",
     "CS/자바/Chapter 12.md",
     "Pasted image 20231201210529.png",
-    "CS/자바/Chapter 9.md",
     "CS/자바/Chapter 11.md",
-    "Total Todo.md",
     "CS/데이터통신/LAN.md",
     "이더넷.md",
     "CS/데이터통신/데이터통신.md",
     "Pasted image 20231127215040.png",
-    "스터디 활동/자바 일주일 복습 스터디/목차.md",
     "취업/기술 면접의 목적.md",
-    "취업/취업 전략.md",
     "흠.md",
     "2023-11-25.md",
     "무제 파일.canvas",
     "CS/자바/JSP.md",
-    "CS/자바/자바 가상 머신(JVM).md",
-    "CS/자바/자바.md",
-    "CS/자바/JDK(자바개발도구).md",
-    "CS/자바/자바 런타임 환경(JRE).md",
     "Pasted image 20231127214909.png",
     "Pasted image 20231125023624.png",
     "Pasted image 20231125023030.png",

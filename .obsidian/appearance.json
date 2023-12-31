@@ -3,5 +3,6 @@
   "cssTheme": "AnuPpuccin",
   "enabledCssSnippets": [
     "color2"
-  ]
+  ],
+  "theme": "obsidian"
 }
