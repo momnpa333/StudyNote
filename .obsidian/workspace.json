@@ -138,9 +138,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3239b408292c7c7d",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.3"
+              }
+            }
           }
         ],
-        "currentTab": 10
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -267,7 +277,7 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "9f7e19fc41c0837d",
+  "active": "3239b408292c7c7d",
   "lastOpenFiles": [
     "CS/자바/서블릿(Servlet).md",
     "객체 지향 언어.md",
