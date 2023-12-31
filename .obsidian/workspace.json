@@ -169,14 +169,62 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "객체 지향 언어.md",
+                "file": "CS/자바/객체 지향 언어.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "99882b0bbb9199cc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS/자바/Hot Java.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "93e570c685e7b4ef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS/자바/가상 컴퓨터(VM).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "49e5cd9d49c371f5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS/자바/객체 지향 언어.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0609ba53509e4a01",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS/자바/객체 지향 언어.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 13
+        "currentTab": 17
       }
     ],
     "direction": "vertical"
@@ -242,7 +290,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "객체 지향 언어.md",
+                "file": "CS/자바/객체 지향 언어.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -259,7 +307,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "객체 지향 언어.md",
+                "file": "CS/자바/객체 지향 언어.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -282,7 +330,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "객체 지향 언어.md"
+                "file": "CS/자바/객체 지향 언어.md"
               }
             }
           }
@@ -303,23 +351,27 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "b693fed679cca7cc",
+  "active": "0609ba53509e4a01",
   "lastOpenFiles": [
+    "CS/자바/객체.md",
+    "CS/자바/객체 지향 언어.md",
+    "CS/자바/Class.md",
+    "CS/자바/Chapter 9.md",
+    "CS/자바/Chapter 12.md",
+    "CS/자바/Chapter 13.md",
+    "CS/자바/가상 컴퓨터(VM).md",
+    "CS/자바/Hot Java.md",
     "CS/자바/자바.md",
     "CS/자바/JDK(자바개발도구).md",
     "CS/자바/JDK.md",
     "CS/자바/자바 런타임 환경(JRE).md",
     "CS/자바/자바 가상 머신(JVM).md",
-    "가상 컴퓨터(VM).md",
     "CS/자바/서블릿(Servlet).md",
-    "Hot Java.md",
     "스터디 활동/자바 일주일 복습 스터디/진행 방식.md",
     "스터디 활동/자바 일주일 복습 스터디/목차.md",
     "취업/취업 전략.md",
-    "CS/자바/Chapter 9.md",
     "Total Todo.md",
     "일정.md",
-    "객체 지향 언어.md",
     "Study Todo.md",
     "Test Todo.md",
     "학업/아름다움이란 무엇인가.md",
@@ -334,15 +386,11 @@
     "User/build/classes/java/main/KNUChat/User/domain/dto/response/UserProfileResponse.class",
     "User/build/classes/java/main/KNUChat/User/domain/dto/response/UserIdResponse.class",
     "User/HELP.md",
-    "CS/자바/Chapter 13.md",
-    "CS/자바/Chapter 12.md",
     "Pasted image 20231201210529.png",
     "CS/자바/Chapter 11.md",
     "CS/데이터통신/LAN.md",
     "이더넷.md",
-    "CS/데이터통신/데이터통신.md",
     "Pasted image 20231127215040.png",
-    "취업/기술 면접의 목적.md",
     "무제 파일.canvas",
     "Pasted image 20231127214909.png",
     "Pasted image 20231125023624.png",
