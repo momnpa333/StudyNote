@@ -217,7 +217,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/자바/Chapter 6.md",
+                "file": "CS/자바/자바 가상 머신(JVM).md",
                 "mode": "source",
                 "source": false
               }
@@ -290,7 +290,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/자바/Chapter 6.md",
+                "file": "CS/자바/자바 가상 머신(JVM).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -307,7 +307,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/자바/Chapter 6.md",
+                "file": "CS/자바/자바 가상 머신(JVM).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -330,7 +330,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/자바/Chapter 6.md"
+                "file": "CS/자바/자바 가상 머신(JVM).md"
               }
             }
           }
@@ -353,8 +353,10 @@
   },
   "active": "0609ba53509e4a01",
   "lastOpenFiles": [
-    "CS/자바/가상 컴퓨터(VM).md",
+    "Pasted image 20231231130709.png",
     "CS/자바/Chapter 6.md",
+    "Pasted image 20231231130306.png",
+    "CS/자바/가상 컴퓨터(VM).md",
     "CS/자바/무제 파일.md",
     "CS/자바/객체 지향 언어.md",
     "CS/자바/객체.md",
@@ -389,7 +391,6 @@
     "User/build/classes/java/main/KNUChat/User/domain/dto/response/UserIdResponse.class",
     "User/HELP.md",
     "Pasted image 20231201210529.png",
-    "CS/자바/Chapter 11.md",
     "Pasted image 20231127215040.png",
     "무제 파일.canvas",
     "Pasted image 20231127214909.png",
