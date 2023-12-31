@@ -7,4 +7,4 @@ class명 앞에 final이 붙은 class로서 상속이 불가능하다. 그렇다
 
 final class로 선언되면 상속받을 수 없기 때문에 당연히 내부의 모든 method는 overridding(재정의)될 수 없다.
 
-- class 변수의 저장위치
+- class 변수의 저장위치(247p)
