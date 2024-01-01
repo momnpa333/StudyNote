@@ -4,5 +4,6 @@
   "enabledCssSnippets": [
     "color2"
   ],
-  "theme": "obsidian"
+  "theme": "obsidian",
+  "baseFontSize": 19
 }
