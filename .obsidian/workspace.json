@@ -229,7 +229,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "낙서.md",
+                "file": "git Actions/GitHub Actions 의 이해.md",
                 "mode": "source",
                 "source": false
               }
@@ -302,7 +302,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "낙서.md",
+                "file": "git Actions/GitHub Actions 의 이해.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -319,7 +319,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "낙서.md",
+                "file": "git Actions/GitHub Actions 의 이해.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -342,7 +342,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "낙서.md"
+                "file": "git Actions/GitHub Actions 의 이해.md"
               }
             }
           }
@@ -365,9 +365,12 @@
   },
   "active": "bad91755812508f8",
   "lastOpenFiles": [
+    "Pasted image 20240115130814.png",
+    "낙서.md",
+    "git Actions/GitHub Actions 의 이해.md",
+    "git Actions",
     "Study Todo.md",
     "Total Todo.md",
-    "낙서.md",
     "CS/자바/Chapter 6.md",
     "CS/자바/자바.md",
     "CS/자바/자바 런타임 환경(JRE).md",
@@ -394,7 +397,6 @@
     "취업/취업 전략.md",
     "일정.md",
     "Test Todo.md",
-    "학업/아름다움이란 무엇인가.md",
     "User/build/classes/java/main/KNUChat/User/global/exception/domain/NotFoundException.class",
     "User/build/classes/java/main/KNUChat/User/global/exception/domain/KnuchatExceptionHandler.class",
     "User/build/classes/java/main/KNUChat/User/global/exception/auth/InvalidTokenException.class",
@@ -404,8 +406,6 @@
     "User/build/classes/java/main/KNUChat/User/global/exception/auth/AuthExceptionHandler.class",
     "User/build/classes/java/main/KNUChat/User/domain/dto/response/UserSearchDto.class",
     "User/build/classes/java/main/KNUChat/User/domain/dto/response/UserProfileResponse.class",
-    "User/build/classes/java/main/KNUChat/User/domain/dto/response/UserIdResponse.class",
-    "User/HELP.md",
     "Pasted image 20231201210529.png",
     "Pasted image 20231127215040.png",
     "Pasted image 20231127214909.png",
