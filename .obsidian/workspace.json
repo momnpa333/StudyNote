@@ -229,7 +229,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "스프링/스프링 기본편.md",
+                "file": "aws/전통적인 가상서버(Virtual Machine)에 배포하기 - AWS Lightsail.md",
                 "mode": "source",
                 "source": false
               }
@@ -302,7 +302,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "스프링/스프링 기본편.md",
+                "file": "aws/전통적인 가상서버(Virtual Machine)에 배포하기 - AWS Lightsail.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -319,7 +319,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "스프링/스프링 기본편.md",
+                "file": "aws/전통적인 가상서버(Virtual Machine)에 배포하기 - AWS Lightsail.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -342,7 +342,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "스프링/스프링 기본편.md"
+                "file": "aws/전통적인 가상서버(Virtual Machine)에 배포하기 - AWS Lightsail.md"
               }
             }
           }
@@ -365,6 +365,9 @@
   },
   "active": "bad91755812508f8",
   "lastOpenFiles": [
+    "스프링/스프링 기본편.md",
+    "aws/전통적인 가상서버(Virtual Machine)에 배포하기 - AWS Lightsail.md",
+    "aws",
     "CS/자바/Chapter 9.md",
     "CS/자바/Chapter 11.md",
     "CS/자바/Chapter 6.md",
@@ -373,7 +376,6 @@
     "CS/자바/객체 지향 언어.md",
     "CS/자바/객체.md",
     "CS/자바/가상 컴퓨터(VM).md",
-    "스프링/스프링 기본편.md",
     "스터디 활동/자바 일주일 복습 스터디/진행 방식.md",
     "스터디 활동/자바 일주일 복습 스터디/목차.md",
     "git Actions/GitHub Actions 의 이해.md",
@@ -398,7 +400,6 @@
     "CS/자바/JDK(자바개발도구).md",
     "CS/자바/JDK.md",
     "취업/취업 전략.md",
-    "일정.md",
     "User/build/classes/java/main/KNUChat/User/global/exception/domain/NotFoundException.class",
     "User/build/classes/java/main/KNUChat/User/global/exception/domain/KnuchatExceptionHandler.class",
     "User/build/classes/java/main/KNUChat/User/global/exception/auth/InvalidTokenException.class",
@@ -406,7 +407,6 @@
     "User/build/classes/java/main/KNUChat/User/global/exception/auth/CustomAuthenticationEntryPoint.class",
     "User/build/classes/java/main/KNUChat/User/global/exception/auth/CustomAccessDeniedHandler.class",
     "User/build/classes/java/main/KNUChat/User/global/exception/auth/AuthExceptionHandler.class",
-    "User/build/classes/java/main/KNUChat/User/domain/dto/response/UserSearchDto.class",
     "Pasted image 20231201210529.png",
     "Pasted image 20231127215040.png",
     "Pasted image 20231127214909.png",
