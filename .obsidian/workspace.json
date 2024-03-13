@@ -241,7 +241,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS면접/1주차/관계형 DB.md",
+                "file": "CS면접/1주차/디자인 패턴.md",
                 "mode": "source",
                 "source": false
               }
@@ -314,7 +314,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS면접/1주차/관계형 DB.md",
+                "file": "CS면접/1주차/디자인 패턴.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -331,7 +331,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS면접/1주차/관계형 DB.md",
+                "file": "CS면접/1주차/디자인 패턴.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -354,7 +354,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS면접/1주차/관계형 DB.md"
+                "file": "CS면접/1주차/디자인 패턴.md"
               }
             }
           }
@@ -377,8 +377,8 @@
   },
   "active": "00cef6251e70d669",
   "lastOpenFiles": [
-    "CS면접/1주차/디자인 패턴.md",
     "CS면접/1주차/관계형 DB.md",
+    "CS면접/1주차/디자인 패턴.md",
     "CS면접/1주차/자기 소개.md",
     "CS면접/1주차/Refresh Token과 Redis.md",
     "CS면접/1주차/MVC와 MVVM패턴.md",
