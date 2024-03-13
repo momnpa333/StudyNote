@@ -4,251 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "16b4b63ec61f94a9",
+        "id": "7701387be17a75f2",
         "type": "tabs",
         "children": [
           {
-            "id": "802bd855ff98d031",
+            "id": "05462d3232766e1f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "스터디 활동/자바 일주일 복습 스터디/진행 방식.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "915f78604b7bce28",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Total Todo.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1b6a559221c86574",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Study Todo.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "42cbb41ac6f4a537",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS/자바/자바.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9607af0ba28af5a1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS/자바/자바.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5d320596a83317b0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS/자바/자바.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8a04e117e6e5edcf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS/자바/자바.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3abc178f3af15351",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS/자바/자바 가상 머신(JVM).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "21522e785dae8096",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS/데이터통신/LAN.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1a7be31973679885",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Study Todo.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9f7e19fc41c0837d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "일정.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3239b408292c7c7d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS/자바/자바.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e90c94e2b6caca5c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS/자바/자바 가상 머신(JVM).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b693fed679cca7cc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS/자바/객체 지향 언어.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "99882b0bbb9199cc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS/자바/Hot Java.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "93e570c685e7b4ef",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS/자바/가상 컴퓨터(VM).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "49e5cd9d49c371f5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS/자바/객체 지향 언어.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0609ba53509e4a01",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Study Todo.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bad91755812508f8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "aws/전통적인 가상서버(Virtual Machine)에 배포하기 - AWS Lightsail.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "00cef6251e70d669",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS면접/1주차/관계형 DB.md",
+                "file": "CS면접/1주차/프록시 서버.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 19
+        ]
       }
     ],
     "direction": "vertical"
@@ -314,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS면접/1주차/관계형 DB.md",
+                "file": "CS면접/1주차/프록시 서버.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -331,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS면접/1주차/관계형 DB.md",
+                "file": "CS면접/1주차/프록시 서버.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -354,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS면접/1주차/관계형 DB.md"
+                "file": "CS면접/1주차/프록시 서버.md"
               }
             }
           }
@@ -375,29 +146,34 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "00cef6251e70d669",
+  "active": "05462d3232766e1f",
   "lastOpenFiles": [
-    "CS면접/1주차/자기 소개.md",
-    "CS면접/1주차/프록시 서버.md",
-    "CS면접/1주차/관계형 DB.md",
-    "CS면접/1주차/디자인 패턴.md",
-    "CS면접/1주차/옵저버 패턴.md",
     "CS면접/1주차/MVC와 MVVM패턴.md",
+    "aws/전통적인 가상서버(Virtual Machine)에 배포하기 - AWS Lightsail.md",
+    "Study Todo.md",
+    "CS/자바/객체 지향 언어.md",
+    "CS/자바/가상 컴퓨터(VM).md",
+    "CS/자바/Hot Java.md",
+    "CS/자바/자바 가상 머신(JVM).md",
+    "CS/자바/자바.md",
+    "일정.md",
+    "CS/데이터통신/LAN.md",
     "CS면접/1주차/Refresh Token과 Redis.md",
+    "CS면접/1주차/프록시 서버.md",
+    "CS면접/1주차/자기 소개.md",
+    "CS면접/1주차/옵저버 패턴.md",
+    "CS면접/1주차/디자인 패턴.md",
+    "CS면접/1주차/관계형 DB.md",
     "Pasted image 20240313180503.png",
     "CS면접/1주차",
     "CS면접",
     "스프링/스프링 기본편.md",
-    "aws/전통적인 가상서버(Virtual Machine)에 배포하기 - AWS Lightsail.md",
     "aws",
     "CS/자바/Chapter 9.md",
     "CS/자바/Chapter 11.md",
     "CS/자바/Chapter 6.md",
-    "CS/자바/자바.md",
     "CS/자바/서블릿(Servlet).md",
-    "CS/자바/객체 지향 언어.md",
     "CS/자바/객체.md",
-    "CS/자바/가상 컴퓨터(VM).md",
     "스터디 활동/자바 일주일 복습 스터디/진행 방식.md",
     "스터디 활동/자바 일주일 복습 스터디/목차.md",
     "git Actions/GitHub Actions 의 이해.md",
@@ -405,10 +181,6 @@
     "Pasted image 20240115130814.png",
     "낙서.md",
     "git Actions",
-    "Study Todo.md",
-    "Total Todo.md",
-    "CS/자바/자바 런타임 환경(JRE).md",
-    "CS/자바/자바 가상 머신(JVM).md",
     "Pasted image 20240101141102.png",
     "Pasted image 20240101141011.png",
     "무제 파일.canvas",
