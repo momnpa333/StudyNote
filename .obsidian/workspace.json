@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "7701387be17a75f2",
+        "id": "c446498dfbf62bfe",
         "type": "tabs",
         "children": [
           {
-            "id": "05462d3232766e1f",
+            "id": "402ef3f25aa669a3",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "CS면접/1주차/MVC와 MVVM패턴.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -65,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 203.5
+    "width": 200
   },
   "right": {
     "id": "dbb8cbe3f80b3818",
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "CS면접/1주차/MVC와 MVVM패턴.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "CS면접/1주차/MVC와 MVVM패턴.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "CS면접/1주차/MVC와 MVVM패턴.md"
+              }
             }
           }
         ]
@@ -138,12 +146,13 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "05462d3232766e1f",
+  "active": "402ef3f25aa669a3",
   "lastOpenFiles": [
-    "CS면접/1주차/디자인 패턴.md",
-    "CS면접/1주차/관계형 DB.md",
-    "CS면접/1주차/옵저버 패턴.md",
     "CS면접/1주차/프록시 서버.md",
+    "CS면접/1주차/관계형 DB.md",
+    "CS면접/1주차/디자인 패턴.md",
+    "CS면접/1주차/자기 소개.md",
+    "CS면접/1주차/옵저버 패턴.md",
     "CS면접/1주차/MVC와 MVVM패턴.md",
     "aws/전통적인 가상서버(Virtual Machine)에 배포하기 - AWS Lightsail.md",
     "Study Todo.md",
@@ -155,7 +164,6 @@
     "일정.md",
     "CS/데이터통신/LAN.md",
     "CS면접/1주차/Refresh Token과 Redis.md",
-    "CS면접/1주차/자기 소개.md",
     "Pasted image 20240313180503.png",
     "CS면접/1주차",
     "CS면접",
