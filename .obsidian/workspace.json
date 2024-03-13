@@ -234,9 +234,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "00cef6251e70d669",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS면접/1주차/자기 소개.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 18
+        "currentTab": 19
       }
     ],
     "direction": "vertical"
@@ -302,7 +314,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "aws/전통적인 가상서버(Virtual Machine)에 배포하기 - AWS Lightsail.md",
+                "file": "CS면접/1주차/자기 소개.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -319,7 +331,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "aws/전통적인 가상서버(Virtual Machine)에 배포하기 - AWS Lightsail.md",
+                "file": "CS면접/1주차/자기 소개.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -342,7 +354,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "aws/전통적인 가상서버(Virtual Machine)에 배포하기 - AWS Lightsail.md"
+                "file": "CS면접/1주차/자기 소개.md"
               }
             }
           }
@@ -363,8 +375,17 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "bad91755812508f8",
+  "active": "00cef6251e70d669",
   "lastOpenFiles": [
+    "CS면접/1주차/관계형 DB.md",
+    "CS면접/1주차/자기 소개.md",
+    "CS면접/1주차/디자인 패턴.md",
+    "CS면접/1주차/Refresh Token과 Redis.md",
+    "CS면접/1주차/MVC와 MVVM패턴.md",
+    "CS면접/1주차/프록시 서버.md",
+    "CS면접/1주차/옵저버 패턴.md",
+    "CS면접/1주차",
+    "CS면접",
     "스프링/스프링 기본편.md",
     "aws/전통적인 가상서버(Virtual Machine)에 배포하기 - AWS Lightsail.md",
     "aws",
@@ -393,20 +414,11 @@
     "무제 파일.canvas",
     "Pasted image 20231231130709.png",
     "Pasted image 20231231130306.png",
-    "CS/자바/Class.md",
-    "CS/자바/Chapter 12.md",
-    "CS/자바/Chapter 13.md",
-    "CS/자바/Hot Java.md",
-    "CS/자바/JDK(자바개발도구).md",
-    "CS/자바/JDK.md",
-    "취업/취업 전략.md",
     "User/build/classes/java/main/KNUChat/User/global/exception/domain/NotFoundException.class",
     "User/build/classes/java/main/KNUChat/User/global/exception/domain/KnuchatExceptionHandler.class",
     "User/build/classes/java/main/KNUChat/User/global/exception/auth/InvalidTokenException.class",
     "User/build/classes/java/main/KNUChat/User/global/exception/auth/InvalidEmailException.class",
     "User/build/classes/java/main/KNUChat/User/global/exception/auth/CustomAuthenticationEntryPoint.class",
-    "User/build/classes/java/main/KNUChat/User/global/exception/auth/CustomAccessDeniedHandler.class",
-    "User/build/classes/java/main/KNUChat/User/global/exception/auth/AuthExceptionHandler.class",
     "Pasted image 20231201210529.png",
     "Pasted image 20231127215040.png",
     "Pasted image 20231127214909.png",
