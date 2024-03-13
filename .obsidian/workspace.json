@@ -11,12 +11,8 @@
             "id": "05462d3232766e1f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS면접/1주차/옵저버 패턴.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS면접/1주차/옵저버 패턴.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS면접/1주차/옵저버 패턴.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "CS면접/1주차/옵저버 패턴.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -148,6 +140,9 @@
   },
   "active": "05462d3232766e1f",
   "lastOpenFiles": [
+    "CS면접/1주차/디자인 패턴.md",
+    "CS면접/1주차/관계형 DB.md",
+    "CS면접/1주차/옵저버 패턴.md",
     "CS면접/1주차/프록시 서버.md",
     "CS면접/1주차/MVC와 MVVM패턴.md",
     "aws/전통적인 가상서버(Virtual Machine)에 배포하기 - AWS Lightsail.md",
@@ -161,9 +156,6 @@
     "CS/데이터통신/LAN.md",
     "CS면접/1주차/Refresh Token과 Redis.md",
     "CS면접/1주차/자기 소개.md",
-    "CS면접/1주차/옵저버 패턴.md",
-    "CS면접/1주차/디자인 패턴.md",
-    "CS면접/1주차/관계형 DB.md",
     "Pasted image 20240313180503.png",
     "CS면접/1주차",
     "CS면접",
