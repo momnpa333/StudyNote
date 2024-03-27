@@ -6,10 +6,16 @@
 	- 노드 사이의 데이터 전
 - 7계층
 	- 범용적인 네트워크 구조
-	- L1(physical)
-	- L2(date link) 
+	- L1(physical) bit단위로 데이터 전송
+	- L2(date link) 직접 연결된 노드간의 통신 담당(ARP)
 	- L3(network) 호스트 간의 통신 담당(ip주소 활용, 최적의 경로 결정)
 	- L4(transpost) 애플리케이션 간의 통신담당 (TCP,UDP)
 	- L5(session) 애플리케이션 간의 통신에서 세션을 관리
 	- L6(presentation) 메시지 포맷 관리(인코딩<->디코딩, 암호화 복호화, 압축)
 	- L7(application) 애플리케이션 목적에 맞는 통신 방법 제공
+![[Pasted image 20240327145634.png]]
+
+- TCP/IP
+	- 인터넷 구조에 특화됨
+		- Link layer(1,2)
+		- internet 
