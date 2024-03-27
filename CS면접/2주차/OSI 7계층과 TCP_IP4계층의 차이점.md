@@ -18,4 +18,6 @@
 - TCP/IP
 	- 인터넷 구조에 특화됨
 		- Link layer(1,2)
-		- internet 
+		- internet layer(3)
+		- transport layer(4)
+		- application layer(5,6,7)
