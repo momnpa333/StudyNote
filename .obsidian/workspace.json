@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS면접/1주차/MVC와 MVVM패턴.md",
+                "file": "CS면접/2주차/OSI 7계층과 TCP_IP4계층의 차이점.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS면접/1주차/MVC와 MVVM패턴.md",
+                "file": "CS면접/2주차/OSI 7계층과 TCP_IP4계층의 차이점.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS면접/1주차/MVC와 MVVM패턴.md",
+                "file": "CS면접/2주차/OSI 7계층과 TCP_IP4계층의 차이점.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS면접/1주차/MVC와 MVVM패턴.md"
+                "file": "CS면접/2주차/OSI 7계층과 TCP_IP4계층의 차이점.md"
               }
             }
           }
@@ -148,12 +148,19 @@
   },
   "active": "402ef3f25aa669a3",
   "lastOpenFiles": [
+    "CS면접/2주차/캐시의 교환정책.md",
+    "CS면접/2주차/HTTP와 HTTPS의 차이.md",
+    "CS면접/2주차/백엔드를 선택한 이유.md",
+    "CS면접/2주차/www.naver.com 입력후 일어나는 일들.md",
+    "CS면접/2주차/HTTP 버전.md",
+    "CS면접/2주차/OSI 7계층과 TCP_IP4계층의 차이점.md",
+    "CS면접/1주차/MVC와 MVVM패턴.md",
+    "CS면접/2주차",
     "CS면접/1주차/프록시 서버.md",
     "CS면접/1주차/디자인 패턴.md",
     "CS면접/1주차/관계형 DB.md",
     "CS면접/1주차/Refresh Token과 Redis.md",
     "CS면접/1주차/옵저버 패턴.md",
-    "CS면접/1주차/MVC와 MVVM패턴.md",
     "CS면접/1주차/자기 소개.md",
     "aws/전통적인 가상서버(Virtual Machine)에 배포하기 - AWS Lightsail.md",
     "Study Todo.md",
@@ -172,14 +179,8 @@
     "CS/자바/Chapter 9.md",
     "CS/자바/Chapter 11.md",
     "CS/자바/Chapter 6.md",
-    "CS/자바/서블릿(Servlet).md",
-    "CS/자바/객체.md",
-    "스터디 활동/자바 일주일 복습 스터디/진행 방식.md",
-    "스터디 활동/자바 일주일 복습 스터디/목차.md",
-    "git Actions/GitHub Actions 의 이해.md",
     "스프링",
     "Pasted image 20240115130814.png",
-    "낙서.md",
     "git Actions",
     "Pasted image 20240101141102.png",
     "Pasted image 20240101141011.png",
@@ -190,7 +191,6 @@
     "User/build/classes/java/main/KNUChat/User/global/exception/domain/KnuchatExceptionHandler.class",
     "User/build/classes/java/main/KNUChat/User/global/exception/auth/InvalidTokenException.class",
     "User/build/classes/java/main/KNUChat/User/global/exception/auth/InvalidEmailException.class",
-    "User/build/classes/java/main/KNUChat/User/global/exception/auth/CustomAuthenticationEntryPoint.class",
     "Pasted image 20231201210529.png",
     "Pasted image 20231127215040.png",
     "Pasted image 20231127214909.png",
