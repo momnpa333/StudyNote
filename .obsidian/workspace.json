@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS면접/2주차/HTTP와 HTTPS의 차이.md",
+                "file": "CS면접/2주차/www.naver.com 입력후 일어나는 일들.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS면접/2주차/HTTP와 HTTPS의 차이.md",
+                "file": "CS면접/2주차/www.naver.com 입력후 일어나는 일들.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS면접/2주차/HTTP와 HTTPS의 차이.md",
+                "file": "CS면접/2주차/www.naver.com 입력후 일어나는 일들.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS면접/2주차/HTTP와 HTTPS의 차이.md"
+                "file": "CS면접/2주차/www.naver.com 입력후 일어나는 일들.md"
               }
             }
           }
@@ -148,11 +148,11 @@
   },
   "active": "402ef3f25aa669a3",
   "lastOpenFiles": [
-    "CS면접/2주차/OSI 7계층과 TCP_IP4계층의 차이점.md",
+    "CS면접/2주차/HTTP1 과 2의 차이.md",
     "CS면접/2주차/HTTP와 HTTPS의 차이.md",
+    "CS면접/2주차/OSI 7계층과 TCP_IP4계층의 차이점.md",
     "CS면접/2주차/캐시의 교환정책.md",
     "CS면접/2주차/백엔드를 선택한 이유.md",
-    "CS면접/2주차/HTTP1 과 2의 차이.md",
     "CS면접/2주차/www.naver.com 입력후 일어나는 일들.md",
     "Pasted image 20240327145634.png",
     "CS면접/1주차/MVC와 MVVM패턴.md",
