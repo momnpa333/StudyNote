@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "95928e5ab9e5f674",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.11"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -146,7 +157,7 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "402ef3f25aa669a3",
+  "active": "95928e5ab9e5f674",
   "lastOpenFiles": [
     "CS면접/1주차/MVC와 MVVM패턴.md",
     "CS면접/1주차/프록시 서버.md",
