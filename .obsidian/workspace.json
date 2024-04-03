@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS면접/2주차/HTTP1 과 2의 차이.md",
+                "file": "CS면접/3주차/교착상태 발생이유와 해결방법.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS면접/2주차/HTTP1 과 2의 차이.md",
+                "file": "CS면접/3주차/교착상태 발생이유와 해결방법.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS면접/2주차/HTTP1 과 2의 차이.md",
+                "file": "CS면접/3주차/교착상태 발생이유와 해결방법.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS면접/2주차/HTTP1 과 2의 차이.md"
+                "file": "CS면접/3주차/교착상태 발생이유와 해결방법.md"
               }
             }
           }
@@ -161,8 +161,18 @@
   },
   "active": "95928e5ab9e5f674",
   "lastOpenFiles": [
-    "CS면접/2주차/HTTP와 HTTPS의 차이.md",
+    "CS면접/3주차/한컴오피스에서 hello world을 입력하면 일어나는일.md",
+    "CS면접/3주차/비IT동료와 효과적으로 의사소통했던 경험이 있으면 소개해주세요. 이때 어떤 의사소통 방법이 효과적인지 답변.md",
+    "CS면접/3주차/JVM의 구조와 동작방식.md",
+    "CS면접/3주차/도커와 가상머신의 차이점.md",
+    "CS면접/3주차/운영체제의 역할.md",
+    "CS면접/3주차/교착상태 발생이유와 해결방법.md",
+    "CS면접/2주차/www.naver.com 입력후 일어나는 일들.md",
+    "CS면접/3주차",
     "CS면접/2주차/OSI 7계층과 TCP_IP4계층의 차이점.md",
+    "CS면접/2주차/HTTP와 HTTPS의 차이.md",
+    "CS면접/2주차/HTTP1 과 2의 차이.md",
+    "CS면접/2주차/백엔드를 선택한 이유.md",
     "CS면접/2주차/캐시의 교환정책.md",
     "CS면접/1주차/MVC와 MVVM패턴.md",
     "CS면접/1주차/프록시 서버.md",
@@ -170,9 +180,6 @@
     "CS면접/1주차/옵저버 패턴.md",
     "CS면접/1주차/디자인 패턴.md",
     "CS면접/1주차/관계형 DB.md",
-    "CS면접/2주차/HTTP1 과 2의 차이.md",
-    "CS면접/2주차/www.naver.com 입력후 일어나는 일들.md",
-    "CS면접/2주차/백엔드를 선택한 이유.md",
     "Pasted image 20240327145634.png",
     "CS면접/2주차",
     "CS면접/1주차/Refresh Token과 Redis.md",
@@ -183,15 +190,10 @@
     "CS/자바/Hot Java.md",
     "CS/자바/자바 가상 머신(JVM).md",
     "CS/자바/자바.md",
-    "일정.md",
-    "CS/데이터통신/LAN.md",
     "Pasted image 20240313180503.png",
     "CS면접/1주차",
     "CS면접",
-    "스프링/스프링 기본편.md",
     "aws",
-    "CS/자바/Chapter 9.md",
-    "CS/자바/Chapter 11.md",
     "스프링",
     "Pasted image 20240115130814.png",
     "git Actions",
@@ -203,7 +205,6 @@
     "User/build/classes/java/main/KNUChat/User/global/exception/domain/NotFoundException.class",
     "User/build/classes/java/main/KNUChat/User/global/exception/domain/KnuchatExceptionHandler.class",
     "User/build/classes/java/main/KNUChat/User/global/exception/auth/InvalidTokenException.class",
-    "User/build/classes/java/main/KNUChat/User/global/exception/auth/InvalidEmailException.class",
     "Pasted image 20231201210529.png",
     "Pasted image 20231127215040.png",
     "Pasted image 20231127214909.png"
