@@ -142,32 +142,9 @@ C언어 같은 경우 직접 개발자가 메모리를 해제해줘야 되지만
 > 
 > 수동으로 GC(가비지 컬렉터)를 실행하기위해 ~~System.gc()~~ 라는 메소드를 사용할수 있지만, 함수 실제 실행은 보장되지는 않는다.
 > 
->         
-
->                 [
->                 ![postcard-title](https://scrap.kakaocdn.net/dn/xFlFK/hyP6sMTwbA/1yTgWKXFJLKKfBIDhpSW61/img.png?width=800&height=485&face=0_0_800_485,https://scrap.kakaocdn.net/dn/cZpjLB/hyP6pvQtiN/YFg2Gt1AEuOltmWa4D1Lu0/img.png?width=800&height=485&face=0_0_800_485,https://scrap.kakaocdn.net/dn/d8n554/hyP6yfgmtc/QmcBJsmFxFRsQw91hKJp51/img.png?width=1137&height=484&face=0_0_1137_484)
->                     ](https://inpa.tistory.com/entry/JAVA-%E2%98%95-%EA%B0%80%EB%B9%84%EC%A7%80-%EC%BB%AC%EB%A0%89%EC%85%98GC-%EB%8F%99%EC%9E%91-%EC%9B%90%EB%A6%AC-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%F0%9F%92%AF-%EC%B4%9D%EC%A0%95%EB%A6%AC)
->                 
-> 
->                 
-> 
->                 [[JAVA] ☕ 가비지 컬렉션 동작 원리 & GC 종류 💯 총정리](https://inpa.tistory.com/entry/JAVA-%E2%98%95-%EA%B0%80%EB%B9%84%EC%A7%80-%EC%BB%AC%EB%A0%89%EC%85%98GC-%EB%8F%99%EC%9E%91-%EC%9B%90%EB%A6%AC-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%F0%9F%92%AF-%EC%B4%9D%EC%A0%95%EB%A6%AC)
 >                     
 > 
->                 
-> 
->                 
-> 
->                 
->                 inpa.tistory.com
->                     
-> 
->                     
-> 
->                 
-> 
->                 
-> 
+>                
 > 가비지 컬렉션(GC) 란? 가비지 컬렉션(Garbage Collectoin, 이하 GC)은 자바의 메모리 관리 방법 중의 하나로 JVM(자바 가상 머신)의 Heap 영역에서 동적으로 할당했던 메모리 중 필요 없게 된 메모리 객체
 > 
 >                     
