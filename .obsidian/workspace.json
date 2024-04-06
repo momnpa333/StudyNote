@@ -35,9 +35,11 @@
             "id": "19673e47c876eff2",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.5.12"
+                "file": "CS면접/3주차/도커와 가상머신의 차이점.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -108,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS면접/3주차/비IT동료와 효과적으로 의사소통했던 경험이 있으면 소개해주세요. 이때 어떤 의사소통 방법이 효과적인지 답변.md",
+                "file": "CS면접/3주차/도커와 가상머신의 차이점.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS면접/3주차/비IT동료와 효과적으로 의사소통했던 경험이 있으면 소개해주세요. 이때 어떤 의사소통 방법이 효과적인지 답변.md",
+                "file": "CS면접/3주차/도커와 가상머신의 차이점.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS면접/3주차/비IT동료와 효과적으로 의사소통했던 경험이 있으면 소개해주세요. 이때 어떤 의사소통 방법이 효과적인지 답변.md"
+                "file": "CS면접/3주차/도커와 가상머신의 차이점.md"
               }
             }
           }
@@ -171,11 +173,11 @@
   },
   "active": "19673e47c876eff2",
   "lastOpenFiles": [
+    "CS면접/3주차/JVM의 구조와 동작방식.md",
     "CS면접/3주차/도커와 가상머신의 차이점.md",
     "CS면접/3주차/교착상태 발생이유와 해결방법.md",
     "CS면접/3주차/한컴오피스에서 hello world을 입력하면 일어나는일.md",
     "CS면접/3주차/운영체제의 역할.md",
-    "CS면접/3주차/JVM의 구조와 동작방식.md",
     "CS면접/3주차/비IT동료와 효과적으로 의사소통했던 경험이 있으면 소개해주세요. 이때 어떤 의사소통 방법이 효과적인지 답변.md",
     "CS/자바/서블릿(Servlet).md",
     "CS/자바/자바.md",
