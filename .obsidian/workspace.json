@@ -30,9 +30,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "19673e47c876eff2",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.12"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -159,7 +169,7 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "95928e5ab9e5f674",
+  "active": "19673e47c876eff2",
   "lastOpenFiles": [
     "CS면접/3주차/도커와 가상머신의 차이점.md",
     "CS면접/3주차/교착상태 발생이유와 해결방법.md",
