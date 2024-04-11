@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS면접/2주차/HTTP와 HTTPS의 차이.md",
+                "file": "카테캠/무제 파일.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS면접/2주차/HTTP와 HTTPS의 차이.md",
+                "file": "카테캠/무제 파일.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS면접/2주차/HTTP와 HTTPS의 차이.md",
+                "file": "카테캠/무제 파일.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS면접/2주차/HTTP와 HTTPS의 차이.md"
+                "file": "카테캠/무제 파일.md"
               }
             }
           }
@@ -173,6 +173,13 @@
   },
   "active": "19673e47c876eff2",
   "lastOpenFiles": [
+    "Pasted image 20240411221851.png",
+    "Pasted image 20240411221837.png",
+    "Pasted image 20240411221809.png",
+    "Pasted image 20240411221750.png",
+    "CS면접/2주차/HTTP와 HTTPS의 차이.md",
+    "카테캠/무제 파일.md",
+    "카테캠",
     "CS면접/3주차/도커와 가상머신의 차이점.md",
     "CS면접/3주차/JVM의 구조와 동작방식.md",
     "CS면접/3주차/교착상태 발생이유와 해결방법.md",
@@ -186,7 +193,6 @@
     "CS면접/2주차/www.naver.com 입력후 일어나는 일들.md",
     "CS면접/3주차",
     "CS면접/2주차/OSI 7계층과 TCP_IP4계층의 차이점.md",
-    "CS면접/2주차/HTTP와 HTTPS의 차이.md",
     "CS면접/2주차/HTTP1 과 2의 차이.md",
     "CS면접/2주차/백엔드를 선택한 이유.md",
     "CS면접/2주차/캐시의 교환정책.md",
@@ -200,8 +206,6 @@
     "CS면접/2주차",
     "CS면접/1주차/Refresh Token과 Redis.md",
     "aws/전통적인 가상서버(Virtual Machine)에 배포하기 - AWS Lightsail.md",
-    "Study Todo.md",
-    "CS/자바/객체 지향 언어.md",
     "Pasted image 20240313180503.png",
     "CS면접/1주차",
     "CS면접",
@@ -215,10 +219,6 @@
     "Pasted image 20231231130709.png",
     "Pasted image 20231231130306.png",
     "User/build/classes/java/main/KNUChat/User/global/exception/domain/NotFoundException.class",
-    "User/build/classes/java/main/KNUChat/User/global/exception/domain/KnuchatExceptionHandler.class",
-    "User/build/classes/java/main/KNUChat/User/global/exception/auth/InvalidTokenException.class",
-    "Pasted image 20231201210529.png",
-    "Pasted image 20231127215040.png",
-    "Pasted image 20231127214909.png"
+    "User/build/classes/java/main/KNUChat/User/global/exception/domain/KnuchatExceptionHandler.class"
   ]
 }
