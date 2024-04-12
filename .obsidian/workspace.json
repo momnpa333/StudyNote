@@ -35,12 +35,8 @@
             "id": "19673e47c876eff2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "카테캠/무제 파일.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -110,7 +106,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "카테캠/무제 파일.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +122,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "카테캠/무제 파일.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,9 +143,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "카테캠/무제 파일.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -173,12 +165,12 @@
   },
   "active": "19673e47c876eff2",
   "lastOpenFiles": [
+    "카테캠/무제 파일.md",
     "Pasted image 20240411221851.png",
     "Pasted image 20240411221837.png",
     "Pasted image 20240411221809.png",
     "Pasted image 20240411221750.png",
     "CS면접/2주차/HTTP와 HTTPS의 차이.md",
-    "카테캠/무제 파일.md",
     "카테캠",
     "CS면접/3주차/도커와 가상머신의 차이점.md",
     "CS면접/3주차/JVM의 구조와 동작방식.md",
@@ -217,7 +209,6 @@
     "Pasted image 20240101141011.png",
     "무제 파일.canvas",
     "Pasted image 20231231130709.png",
-    "Pasted image 20231231130306.png",
     "User/build/classes/java/main/KNUChat/User/global/exception/domain/NotFoundException.class",
     "User/build/classes/java/main/KNUChat/User/global/exception/domain/KnuchatExceptionHandler.class"
   ]
