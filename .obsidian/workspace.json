@@ -35,8 +35,12 @@
             "id": "19673e47c876eff2",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "CS/DB/B-Tree, B+Tree.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -106,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS면접/1주차/Refresh Token과 Redis.md",
+                "file": "CS/DB/B-Tree, B+Tree.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS면접/1주차/Refresh Token과 Redis.md",
+                "file": "CS/DB/B-Tree, B+Tree.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS면접/1주차/Refresh Token과 Redis.md"
+                "file": "CS/DB/B-Tree, B+Tree.md"
               }
             }
           }
@@ -169,6 +173,9 @@
   },
   "active": "19673e47c876eff2",
   "lastOpenFiles": [
+    "CS/DB/인덱싱을 하는 이유.md",
+    "CS/DB/B-Tree, B+Tree.md",
+    "CS/DB",
     "카테캠/무제 파일.md",
     "Pasted image 20240411221851.png",
     "Pasted image 20240411221837.png",
@@ -201,7 +208,6 @@
     "Pasted image 20240327145634.png",
     "CS면접/2주차",
     "CS면접/1주차/Refresh Token과 Redis.md",
-    "aws/전통적인 가상서버(Virtual Machine)에 배포하기 - AWS Lightsail.md",
     "Pasted image 20240313180503.png",
     "CS면접/1주차",
     "CS면접",
@@ -213,7 +219,6 @@
     "Pasted image 20240101141011.png",
     "무제 파일.canvas",
     "Pasted image 20231231130709.png",
-    "User/build/classes/java/main/KNUChat/User/global/exception/domain/NotFoundException.class",
-    "User/build/classes/java/main/KNUChat/User/global/exception/domain/KnuchatExceptionHandler.class"
+    "User/build/classes/java/main/KNUChat/User/global/exception/domain/NotFoundException.class"
   ]
 }
