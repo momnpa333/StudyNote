@@ -25,26 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS면접/3주차/비IT동료와 효과적으로 의사소통했던 경험이 있으면 소개해주세요. 이때 어떤 의사소통 방법이 효과적인지 답변.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "19673e47c876eff2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS/DB/B-Tree, B+Tree.md",
+                "file": "CS면접/인적성/본인을 간단히 소개해주세요.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/DB/B-Tree, B+Tree.md",
+                "file": "CS면접/인적성/본인을 간단히 소개해주세요.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/DB/B-Tree, B+Tree.md",
+                "file": "CS면접/인적성/본인을 간단히 소개해주세요.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/DB/B-Tree, B+Tree.md"
+                "file": "CS면접/인적성/본인을 간단히 소개해주세요.md"
               }
             }
           }
@@ -171,9 +159,15 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "19673e47c876eff2",
+  "active": "95928e5ab9e5f674",
   "lastOpenFiles": [
+    "CS면접/인적성/본인이 했던 프로젝트중 가장 자신있는 프로젝트는 무엇인가요.md",
+    "CS면접/인적성/본인을 간단히 소개해주세요.md",
+    "CS면접/3주차/비IT동료와 효과적으로 의사소통했던 경험이 있으면 소개해주세요. 이때 어떤 의사소통 방법이 효과적인지 답변.md",
+    "CS면접/인적성",
+    "CS면접/네이버 준비",
     "CS/DB/인덱싱을 하는 이유.md",
+    "CS면접/1주차/Refresh Token과 Redis.md",
     "CS/DB/B-Tree, B+Tree.md",
     "CS/DB",
     "카테캠/무제 파일.md",
@@ -188,7 +182,6 @@
     "CS면접/3주차/교착상태 발생이유와 해결방법.md",
     "CS면접/3주차/한컴오피스에서 hello world을 입력하면 일어나는일.md",
     "CS면접/3주차/운영체제의 역할.md",
-    "CS면접/3주차/비IT동료와 효과적으로 의사소통했던 경험이 있으면 소개해주세요. 이때 어떤 의사소통 방법이 효과적인지 답변.md",
     "CS/자바/서블릿(Servlet).md",
     "CS/자바/자바.md",
     "CS/자바/자바 가상 머신(JVM).md",
@@ -203,22 +196,17 @@
     "CS면접/1주차/프록시 서버.md",
     "CS면접/1주차/자기 소개.md",
     "CS면접/1주차/옵저버 패턴.md",
-    "CS면접/1주차/디자인 패턴.md",
-    "CS면접/1주차/관계형 DB.md",
     "Pasted image 20240327145634.png",
     "CS면접/2주차",
-    "CS면접/1주차/Refresh Token과 Redis.md",
     "Pasted image 20240313180503.png",
     "CS면접/1주차",
     "CS면접",
     "aws",
     "스프링",
     "Pasted image 20240115130814.png",
-    "git Actions",
     "Pasted image 20240101141102.png",
     "Pasted image 20240101141011.png",
     "무제 파일.canvas",
-    "Pasted image 20231231130709.png",
-    "User/build/classes/java/main/KNUChat/User/global/exception/domain/NotFoundException.class"
+    "Pasted image 20231231130709.png"
   ]
 }
