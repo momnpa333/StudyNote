@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS면접/인적성/본인을 간단히 소개해주세요.md",
+                "file": "CS/자바/객체 지향이란.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS면접/인적성/본인을 간단히 소개해주세요.md",
+                "file": "CS/자바/객체 지향이란.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS면접/인적성/본인을 간단히 소개해주세요.md",
+                "file": "CS/자바/객체 지향이란.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS면접/인적성/본인을 간단히 소개해주세요.md"
+                "file": "CS/자바/객체 지향이란.md"
               }
             }
           }
@@ -159,10 +159,13 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "95928e5ab9e5f674",
+  "active": "b229b95062d0ca73",
   "lastOpenFiles": [
-    "CS면접/인적성/본인이 했던 프로젝트중 가장 자신있는 프로젝트는 무엇인가요.md",
+    "CS/디자인 패턴",
+    "CS/자바/객체 지향 언어.md",
+    "CS/자바/객체 지향이란.md",
     "CS면접/인적성/본인을 간단히 소개해주세요.md",
+    "CS면접/인적성/본인이 했던 프로젝트중 가장 자신있는 프로젝트는 무엇인가요.md",
     "CS면접/3주차/비IT동료와 효과적으로 의사소통했던 경험이 있으면 소개해주세요. 이때 어떤 의사소통 방법이 효과적인지 답변.md",
     "CS면접/인적성",
     "CS면접/네이버 준비",
@@ -193,9 +196,6 @@
     "CS면접/2주차/백엔드를 선택한 이유.md",
     "CS면접/2주차/캐시의 교환정책.md",
     "CS면접/1주차/MVC와 MVVM패턴.md",
-    "CS면접/1주차/프록시 서버.md",
-    "CS면접/1주차/자기 소개.md",
-    "CS면접/1주차/옵저버 패턴.md",
     "Pasted image 20240327145634.png",
     "CS면접/2주차",
     "Pasted image 20240313180503.png",
