@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "카테캠/WIL 2주차.md",
+                "file": "CS면접/4주차/정규화의 장점은 무엇이며, 어떤 경우에 비정규화를 도입하는 것이 좋을지.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "카테캠/WIL 2주차.md",
+                "file": "CS면접/4주차/정규화의 장점은 무엇이며, 어떤 경우에 비정규화를 도입하는 것이 좋을지.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "카테캠/WIL 2주차.md",
+                "file": "CS면접/4주차/정규화의 장점은 무엇이며, 어떤 경우에 비정규화를 도입하는 것이 좋을지.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "카테캠/WIL 2주차.md"
+                "file": "CS면접/4주차/정규화의 장점은 무엇이며, 어떤 경우에 비정규화를 도입하는 것이 좋을지.md"
               }
             }
           }
@@ -161,8 +161,21 @@
   },
   "active": "95928e5ab9e5f674",
   "lastOpenFiles": [
-    "카테캠/WIL 1주차.md",
+    "CS면접/4주차/자바의 함수형프로그래밍에 대하여 설명.md",
+    "CS면접/4주차/로컬캐시와 글로벌캐시.md",
+    "CS면접/4주차/데이터베이스의 인덱스를 구성할 때 b-tree로 구현하는 이유.md",
+    "Pasted image 20240501144023.png",
+    "Pasted image 20240501143912.png",
+    "Pasted image 20240501143801.png",
+    "Pasted image 20240501143635.png",
+    "Pasted image 20240501143149.png",
+    "Pasted image 20240501143024.png",
+    "CS면접/4주차/정규화의 장점은 무엇이며, 어떤 경우에 비정규화를 도입하는 것이 좋을지.md",
+    "CS면접/4주차/ACID의 4가지 특징.md",
+    "CS면접/4주차/트랜잭션의 격리수준에 따라 발생가능한 문제점.md",
     "카테캠/WIL 2주차.md",
+    "CS면접/4주차",
+    "카테캠/WIL 1주차.md",
     "CS면접/인적성/본인을 간단히 소개해주세요.md",
     "CS면접/인적성/돌멩이와 협업하고 싶다고 한 이유.md",
     "CS면접/인적성/네이버에 들어가고 싶은 이유.md",
@@ -189,24 +202,10 @@
     "CS면접/3주차/JVM의 구조와 동작방식.md",
     "CS면접/3주차/교착상태 발생이유와 해결방법.md",
     "CS면접/3주차/한컴오피스에서 hello world을 입력하면 일어나는일.md",
-    "CS면접/3주차/운영체제의 역할.md",
-    "CS/자바/서블릿(Servlet).md",
-    "CS/자바/자바.md",
-    "CS/자바/자바 가상 머신(JVM).md",
-    "CS/자바/가상 컴퓨터(VM).md",
-    "CS면접/2주차/www.naver.com 입력후 일어나는 일들.md",
     "CS면접/3주차",
-    "CS면접/2주차/OSI 7계층과 TCP_IP4계층의 차이점.md",
-    "Pasted image 20240327145634.png",
     "CS면접/2주차",
-    "Pasted image 20240313180503.png",
     "CS면접/1주차",
     "CS면접",
-    "aws",
-    "Pasted image 20240115130814.png",
-    "Pasted image 20240101141102.png",
-    "Pasted image 20240101141011.png",
-    "무제 파일.canvas",
-    "Pasted image 20231231130709.png"
+    "무제 파일.canvas"
   ]
 }
