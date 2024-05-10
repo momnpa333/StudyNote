@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "b976e2b6177aaf92",
+        "id": "02ef2ab09add4b95",
         "type": "tabs",
         "children": [
           {
-            "id": "2c7844a83359acb2",
+            "id": "26f9a313c42d9cbd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS면접/5주차/레드 블랙 트리에 대해 설명해주세요..md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS면접/5주차/레드 블랙 트리에 대해 설명해주세요..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS면접/5주차/레드 블랙 트리에 대해 설명해주세요..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "CS면접/5주차/레드 블랙 트리에 대해 설명해주세요..md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,13 +138,13 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "2c7844a83359acb2",
+  "active": "26f9a313c42d9cbd",
   "lastOpenFiles": [
+    "CS면접/5주차/레드 블랙 트리에 대해 설명해주세요..md",
     "CS면접/5주차/개발자로서의 목표가 있는지, 5년 후,10년 후 목표.md",
     "CS면접/5주차/자바 컬렉션프레임워크에는 어떤게 있나요? 그리고 컬렉션을 받는 api를 구현하실때 구체타입과 추상타입중 어떤것을 선호하시나요?.md",
     "CS면접/5주차/해시 테이블(Hash Table)과 시간 복잡도에 대해 설명해주세요..md",
     "CS면접/5주차/BST 자료구조와 이를 개선한 알고리즘들을 설명해주세요.md",
-    "CS면접/5주차/레드 블랙 트리에 대해 설명해주세요..md",
     "CS면접/5주차/해시 충돌에 대해서 설명하고, 충돌을 해결하는 방법을 설명해주세요.md",
     "CS면접/5주차/Array와  LinkedList가 각각 무엇인지, 어떻게 다른지 설명해주세요..md",
     "CS면접/인적성/무제 파일.md",
