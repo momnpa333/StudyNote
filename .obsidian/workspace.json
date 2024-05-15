@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "02ef2ab09add4b95",
+        "id": "59f2eab05e8c45e3",
         "type": "tabs",
         "children": [
           {
-            "id": "26f9a313c42d9cbd",
+            "id": "e552fd2c2be649cd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS면접/4주차/로컬캐시와 글로벌캐시.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS면접/4주차/로컬캐시와 글로벌캐시.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS면접/4주차/로컬캐시와 글로벌캐시.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "CS면접/4주차/로컬캐시와 글로벌캐시.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,8 +138,9 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "26f9a313c42d9cbd",
+  "active": "e552fd2c2be649cd",
   "lastOpenFiles": [
+    "CS면접/4주차/로컬캐시와 글로벌캐시.md",
     "CS면접/3주차/도커와 가상머신의 차이점.md",
     "CS/자바/자바 가상 머신(JVM).md",
     "CS/자바/자바.md",
@@ -173,7 +166,6 @@
     "CS면접/1주차/디자인 패턴.md",
     "CS면접/1주차/옵저버 패턴.md",
     "CS면접/1주차/자기 소개.md",
-    "CS면접/1주차/프록시 서버.md",
     "CS면접/5주차",
     "Pasted image 20240501155313.png",
     "Pasted image 20240501153215.png",
