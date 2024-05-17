@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "59f2eab05e8c45e3",
+        "id": "c63894b7f91bcaf6",
         "type": "tabs",
         "children": [
           {
-            "id": "e552fd2c2be649cd",
+            "id": "520801b86a3494c2",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -138,7 +138,7 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "e552fd2c2be649cd",
+  "active": "520801b86a3494c2",
   "lastOpenFiles": [
     "CS면접/4주차/로컬캐시와 글로벌캐시.md",
     "CS면접/3주차/도커와 가상머신의 차이점.md",
