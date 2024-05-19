@@ -11,8 +11,12 @@
             "id": "520801b86a3494c2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "CS면접/2주차/HTTP1 과 2의 차이.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "CS면접/2주차/HTTP1 과 2의 차이.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "CS면접/2주차/HTTP1 과 2의 차이.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "CS면접/2주차/HTTP1 과 2의 차이.md"
+              }
             }
           }
         ]
@@ -140,6 +148,15 @@
   },
   "active": "520801b86a3494c2",
   "lastOpenFiles": [
+    "CS면접/2주차/캐시의 교환정책.md",
+    "CS면접/2주차/백엔드를 선택한 이유.md",
+    "CS면접/1주차/Refresh Token과 Redis.md",
+    "CS면접/1주차/MVC와 MVVM패턴.md",
+    "CS면접/1주차/프록시 서버.md",
+    "CS면접/1주차/자기 소개.md",
+    "CS면접/1주차/옵저버 패턴.md",
+    "CS면접/1주차/관계형 DB.md",
+    "CS면접/1주차/디자인 패턴.md",
     "CS면접/4주차/로컬캐시와 글로벌캐시.md",
     "CS면접/3주차/도커와 가상머신의 차이점.md",
     "CS/자바/자바 가상 머신(JVM).md",
@@ -157,15 +174,6 @@
     "스터디 활동/자바 일주일 복습 스터디/진행 방식.md",
     "스터디 활동/자바 일주일 복습 스터디/목차.md",
     "카테캠/WIL 2주차.md",
-    "CS면접/5주차/BST 자료구조와 이를 개선한 알고리즘들을 설명해주세요.md",
-    "CS면접/5주차/Array와  LinkedList가 각각 무엇인지, 어떻게 다른지 설명해주세요..md",
-    "CS면접/3주차/운영체제의 역할.md",
-    "CS면접/3주차/비IT동료와 효과적으로 의사소통했던 경험이 있으면 소개해주세요. 이때 어떤 의사소통 방법이 효과적인지 답변.md",
-    "CS면접/2주차/HTTP와 HTTPS의 차이.md",
-    "CS면접/1주차/관계형 DB.md",
-    "CS면접/1주차/디자인 패턴.md",
-    "CS면접/1주차/옵저버 패턴.md",
-    "CS면접/1주차/자기 소개.md",
     "CS면접/5주차",
     "Pasted image 20240501155313.png",
     "Pasted image 20240501153215.png",
