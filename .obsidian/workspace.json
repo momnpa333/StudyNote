@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS면접/토스/프로젝트 소개.md",
+                "file": "CS면접/3주차/교착상태 발생이유와 해결방법.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS면접/토스/프로젝트 소개.md",
+                "file": "CS면접/3주차/교착상태 발생이유와 해결방법.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS면접/토스/프로젝트 소개.md",
+                "file": "CS면접/3주차/교착상태 발생이유와 해결방법.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS면접/토스/프로젝트 소개.md"
+                "file": "CS면접/3주차/교착상태 발생이유와 해결방법.md"
               }
             }
           }
@@ -148,10 +148,11 @@
   },
   "active": "520801b86a3494c2",
   "lastOpenFiles": [
+    "CS면접/4주차/데이터베이스의 인덱스를 구성할 때 b-tree로 구현하는 이유.md",
+    "CS면접/토스/프로젝트 소개.md",
     "CS면접/인적성/설명하고 싶은 프로젝트에 대해 설명.md",
     "CS면접/인적성/무제 파일.md",
     "CS면접/인적성/본인을 간단히 소개해주세요.md",
-    "CS면접/토스/프로젝트 소개.md",
     "CS면접/토스/자기소개.md",
     "CS면접/인적성/네이버에 들어가고 싶은 이유.md",
     "CS면접/인적성/돌멩이와 협업하고 싶다고 한 이유.md",
@@ -174,7 +175,6 @@
     "CS/자바/자바 가상 머신(JVM).md",
     "CS/자바/자바.md",
     "CS/자바/서블릿(Servlet).md",
-    "CS/자바/무제 파일.md",
     "CS면접/5주차",
     "Pasted image 20240501155313.png",
     "Pasted image 20240501153215.png",
