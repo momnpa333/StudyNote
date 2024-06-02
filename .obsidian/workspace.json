@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "c63894b7f91bcaf6",
+        "id": "f7377228a9156a84",
         "type": "tabs",
         "children": [
           {
-            "id": "520801b86a3494c2",
+            "id": "b83626a82dbbac72",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS면접/2주차/www.naver.com 입력후 일어나는 일들.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS면접/2주차/www.naver.com 입력후 일어나는 일들.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS면접/2주차/www.naver.com 입력후 일어나는 일들.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "CS면접/2주차/www.naver.com 입력후 일어나는 일들.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,10 +138,10 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "520801b86a3494c2",
+  "active": "b83626a82dbbac72",
   "lastOpenFiles": [
-    "CS면접/2주차/OSI 7계층과 TCP_IP4계층의 차이점.md",
     "CS면접/2주차/www.naver.com 입력후 일어나는 일들.md",
+    "CS면접/2주차/OSI 7계층과 TCP_IP4계층의 차이점.md",
     "CS면접/2주차/HTTP와 HTTPS의 차이.md",
     "CS면접/2주차/HTTP1 과 2의 차이.md",
     "CS면접/2주차/캐시의 교환정책.md",
