@@ -11,8 +11,12 @@
             "id": "b83626a82dbbac72",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "CS면접/3주차/교착상태 발생이유와 해결방법.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "CS면접/3주차/교착상태 발생이유와 해결방법.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "CS면접/3주차/교착상태 발생이유와 해결방법.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "CS면접/3주차/교착상태 발생이유와 해결방법.md"
+              }
             }
           }
         ]
@@ -140,33 +148,33 @@
   },
   "active": "b83626a82dbbac72",
   "lastOpenFiles": [
+    "CS면접/3주차/운영체제의 역할.md",
+    "CS면접/3주차/비IT동료와 효과적으로 의사소통했던 경험이 있으면 소개해주세요. 이때 어떤 의사소통 방법이 효과적인지 답변.md",
+    "CS면접/3주차/도커와 가상머신의 차이점.md",
+    "CS면접/3주차/교착상태 발생이유와 해결방법.md",
     "CS면접/2주차/www.naver.com 입력후 일어나는 일들.md",
     "CS면접/2주차/OSI 7계층과 TCP_IP4계층의 차이점.md",
     "CS면접/2주차/HTTP와 HTTPS의 차이.md",
     "CS면접/2주차/HTTP1 과 2의 차이.md",
     "CS면접/2주차/캐시의 교환정책.md",
     "CS면접/2주차/백엔드를 선택한 이유.md",
+    "CS면접/1주차/Refresh Token과 Redis.md",
+    "CS면접/1주차/MVC와 MVVM패턴.md",
+    "CS면접/1주차/프록시 서버.md",
     "CS면접/1주차/디자인 패턴.md",
     "CS면접/1주차/관계형 DB.md",
     "CS면접/1주차/옵저버 패턴.md",
+    "CS/자바/객체 지향이란.md",
+    "CS/자바/객체 지향 언어.md",
+    "CS/자바/객체.md",
+    "CS/자바/가상 컴퓨터(VM).md",
+    "CS/데이터통신/LAN.md",
     "CS면접/1주차/자기 소개.md",
-    "CS면접/1주차/프록시 서버.md",
-    "CS면접/1주차/MVC와 MVVM패턴.md",
-    "CS면접/1주차/Refresh Token과 Redis.md",
     "CS면접/5주차/개발자로서의 목표가 있는지, 5년 후,10년 후 목표.md",
     "CS면접/5주차/BST 자료구조와 이를 개선한 알고리즘들을 설명해주세요.md",
     "CS/자바/자바.md",
     "CS면접/5주차/Array와  LinkedList가 각각 무엇인지, 어떻게 다른지 설명해주세요..md",
-    "CS면접/5주차/해시 테이블(Hash Table)과 시간 복잡도에 대해 설명해주세요..md",
-    "CS면접/인적성/설명하고 싶은 프로젝트에 대해 설명.md",
-    "CS면접/인적성/유튜브에 강의는 어떻게 올리게 되었나.md",
-    "CS면접/5주차/자바 컬렉션프레임워크에는 어떤게 있나요? 그리고 컬렉션을 받는 api를 구현하실때 구체타입과 추상타입중 어떤것을 선호하시나요?.md",
-    "CS면접/5주차/해시 충돌에 대해서 설명하고, 충돌을 해결하는 방법을 설명해주세요.md",
     "Pasted image 20240522122046.png",
-    "CS면접/5주차/레드 블랙 트리에 대해 설명해주세요..md",
-    "CS면접/인적성/본인을 간단히 소개해주세요.md",
-    "CS면접/인적성/돌멩이와 협업하고 싶다고 한 이유.md",
-    "CS면접/토스/자기소개.md",
     "CS면접/토스",
     "CS면접/5주차",
     "Pasted image 20240501155313.png",
