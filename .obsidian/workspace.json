@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "43b93d0f0f74f2aa",
+        "id": "b7a316daccea22e1",
         "type": "tabs",
         "children": [
           {
-            "id": "f706ac7ee9cd577d",
+            "id": "a6b6b3a48966e9dc",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -138,7 +138,7 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "f706ac7ee9cd577d",
+  "active": "a6b6b3a48966e9dc",
   "lastOpenFiles": [
     "CS면접/3주차/운영체제의 역할.md",
     "CS면접/3주차/비IT동료와 효과적으로 의사소통했던 경험이 있으면 소개해주세요. 이때 어떤 의사소통 방법이 효과적인지 답변.md",
