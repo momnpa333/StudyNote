@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "7076feae51a0a468",
+        "id": "5171f014f00ce63d",
         "type": "tabs",
         "children": [
           {
-            "id": "9a1f408b75323082",
+            "id": "5682fe612b20aebf",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS면접/2주차/HTTP와 HTTPS의 차이.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS면접/2주차/HTTP와 HTTPS의 차이.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS면접/2주차/HTTP와 HTTPS의 차이.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "CS면접/2주차/HTTP와 HTTPS의 차이.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,8 +138,9 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "9a1f408b75323082",
+  "active": "5682fe612b20aebf",
   "lastOpenFiles": [
+    "CS면접/2주차/HTTP와 HTTPS의 차이.md",
     "CS면접/2주차/www.naver.com 입력후 일어나는 일들.md",
     "CS면접/1주차/옵저버 패턴.md",
     "CS면접/1주차/관계형 DB.md",
@@ -165,7 +158,6 @@
     "CS면접/5주차/해시 충돌에 대해서 설명하고, 충돌을 해결하는 방법을 설명해주세요.md",
     "CS면접/5주차/레드 블랙 트리에 대해 설명해주세요..md",
     "CS면접/5주차/자바 컬렉션프레임워크에는 어떤게 있나요? 그리고 컬렉션을 받는 api를 구현하실때 구체타입과 추상타입중 어떤것을 선호하시나요?.md",
-    "CS면접/2주차/HTTP와 HTTPS의 차이.md",
     "CS면접/2주차/백엔드를 선택한 이유.md",
     "CS면접/2주차/HTTP1 과 2의 차이.md",
     "CS면접/2주차/캐시의 교환정책.md",
