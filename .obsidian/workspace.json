@@ -11,8 +11,12 @@
             "id": "5682fe612b20aebf",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "CS/자바/자바 가상 머신(JVM).md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "CS/자바/자바 가상 머신(JVM).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "CS/자바/자바 가상 머신(JVM).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "CS/자바/자바 가상 머신(JVM).md"
+              }
             }
           }
         ]
@@ -140,6 +148,16 @@
   },
   "active": "5682fe612b20aebf",
   "lastOpenFiles": [
+    "CS/자바/객체 지향 언어.md",
+    "학업/아름다움이란 무엇인가.md",
+    "카테캠/WIL 2주차.md",
+    "CS면접/5주차/BST 자료구조와 이를 개선한 알고리즘들을 설명해주세요.md",
+    "2023-11-25.md",
+    "낙서.md",
+    "CS면접/토스/프로젝트 소개.md",
+    "CS면접/5주차/해시 테이블(Hash Table)과 시간 복잡도에 대해 설명해주세요..md",
+    "CS/자바/JSP.md",
+    "CS/자바/Chapter 11.md",
     "CS면접/2주차/HTTP와 HTTPS의 차이.md",
     "CS면접/2주차/www.naver.com 입력후 일어나는 일들.md",
     "CS면접/1주차/옵저버 패턴.md",
@@ -154,18 +172,8 @@
     "CS면접/3주차/교착상태 발생이유와 해결방법.md",
     "CS면접/토스/샤딩.md",
     "CS면접/토스/레디스.md",
-    "CS면접/5주차/해시 테이블(Hash Table)과 시간 복잡도에 대해 설명해주세요..md",
     "CS면접/5주차/해시 충돌에 대해서 설명하고, 충돌을 해결하는 방법을 설명해주세요.md",
     "CS면접/5주차/레드 블랙 트리에 대해 설명해주세요..md",
-    "CS면접/5주차/자바 컬렉션프레임워크에는 어떤게 있나요? 그리고 컬렉션을 받는 api를 구현하실때 구체타입과 추상타입중 어떤것을 선호하시나요?.md",
-    "CS면접/2주차/백엔드를 선택한 이유.md",
-    "CS면접/2주차/HTTP1 과 2의 차이.md",
-    "CS면접/2주차/캐시의 교환정책.md",
-    "CS면접/1주차/Refresh Token과 Redis.md",
-    "CS/자바/객체 지향이란.md",
-    "CS/자바/객체 지향 언어.md",
-    "CS/자바/객체.md",
-    "CS/자바/가상 컴퓨터(VM).md",
     "Pasted image 20240522122046.png",
     "CS면접/토스",
     "CS면접/5주차",
