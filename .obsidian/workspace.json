@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "5171f014f00ce63d",
+        "id": "0b57ebabe8971577",
         "type": "tabs",
         "children": [
           {
-            "id": "5682fe612b20aebf",
+            "id": "27405a97ff412d7d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS/자바/자바 가상 머신(JVM).md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/자바/자바 가상 머신(JVM).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/자바/자바 가상 머신(JVM).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "CS/자바/자바 가상 머신(JVM).md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,8 +138,9 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "5682fe612b20aebf",
+  "active": "27405a97ff412d7d",
   "lastOpenFiles": [
+    "CS/자바/자바 가상 머신(JVM).md",
     "CS/자바/객체 지향 언어.md",
     "학업/아름다움이란 무엇인가.md",
     "카테캠/WIL 2주차.md",
@@ -173,7 +166,6 @@
     "CS면접/토스/샤딩.md",
     "CS면접/토스/레디스.md",
     "CS면접/5주차/해시 충돌에 대해서 설명하고, 충돌을 해결하는 방법을 설명해주세요.md",
-    "CS면접/5주차/레드 블랙 트리에 대해 설명해주세요..md",
     "Pasted image 20240522122046.png",
     "CS면접/토스",
     "CS면접/5주차",
