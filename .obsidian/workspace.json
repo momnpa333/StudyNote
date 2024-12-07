@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "0b57ebabe8971577",
+        "id": "e81bdc7c25b95b13",
         "type": "tabs",
         "children": [
           {
-            "id": "27405a97ff412d7d",
+            "id": "25985ff470ce909b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS면접/인적성/돌멩이와 협업하고 싶다고 한 이유.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "돌멩이와 협업하고 싶다고 한 이유"
+              "title": "새 탭"
             }
           }
         ]
@@ -158,13 +154,14 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "27405a97ff412d7d",
+  "active": "25985ff470ce909b",
   "lastOpenFiles": [
+    "CS면접/인적성/본인을 간단히 소개해주세요.md",
+    "CS면접/인적성/돌멩이와 협업하고 싶다고 한 이유.md",
+    "CS면접/1주차/자기 소개.md",
     "CS면접/토스/샤딩.md",
     "CS면접/토스/자기소개.md",
-    "CS면접/인적성/본인을 간단히 소개해주세요.md",
     "CS면접/인적성/무제 파일.md",
-    "CS면접/인적성/돌멩이와 협업하고 싶다고 한 이유.md",
     "CS면접/인적성/네이버에 들어가고 싶은 이유.md",
     "취업/취업 전략.md",
     "취업/기술 면접의 목적.md",
@@ -185,7 +182,6 @@
     "CS면접/1주차/관계형 DB.md",
     "CS면접/1주차/디자인 패턴.md",
     "CS면접/1주차/프록시 서버.md",
-    "CS면접/1주차/MVC와 MVVM패턴.md",
     "Pasted image 20240522122046.png",
     "CS면접/토스",
     "CS면접/5주차",
