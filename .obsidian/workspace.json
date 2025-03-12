@@ -34,9 +34,21 @@
               "icon": "lucide-file",
               "title": "본인을 간단히 소개해주세요"
             }
+          },
+          {
+            "id": "65a671633acf0d0b",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.7"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -174,7 +186,7 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "7724bbfc3d10d908",
+  "active": "65a671633acf0d0b",
   "lastOpenFiles": [
     "CS면접/인적성/설명하고 싶은 프로젝트에 대해 설명.md",
     "CS면접/인적성/본인을 간단히 소개해주세요.md",
