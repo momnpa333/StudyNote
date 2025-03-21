@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/컴퓨터 구조/네이버 CS 문제 대비.md",
+                "file": "CS/데이터베이스/트랜잭션의 격리 수준(Isolation Level).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "네이버 CS 문제 대비"
+              "title": "트랜잭션의 격리 수준(Isolation Level)"
             }
           }
         ]
@@ -161,8 +161,12 @@
   },
   "active": "3a65aa562693fa42",
   "lastOpenFiles": [
-    "CS/운영체제/네이버 CS 문제 대비.md",
+    "CS/데이터베이스/트랜잭션 ACID.md",
+    "CS/데이터베이스/트랜잭션의 격리 수준(Isolation Level).md",
+    "CS/데이터베이스/SQL DDL.md",
     "CS/컴퓨터 구조/네이버 CS 문제 대비.md",
+    "CS/데이터베이스",
+    "CS/운영체제/네이버 CS 문제 대비.md",
     "CS/컴퓨터 구조",
     "CS면접/토스/DB.md",
     "CS/운영체제",
@@ -186,9 +190,6 @@
     "CS면접/4주차/데이터베이스의 인덱스를 구성할 때 b-tree로 구현하는 이유.md",
     "CS면접/3주차/JVM의 구조와 동작방식.md",
     "CS면접/3주차/한컴오피스에서 hello world을 입력하면 일어나는일.md",
-    "CS면접/3주차/운영체제의 역할.md",
-    "CS면접/3주차/비IT동료와 효과적으로 의사소통했던 경험이 있으면 소개해주세요. 이때 어떤 의사소토.md",
-    "CS면접/3주차/도커와 가상머신의 차이점.md",
     "무제 파일.canvas",
     "Pasted image 20240522122046.png",
     "CS면접/토스",
@@ -206,7 +207,6 @@
     "CS면접/인적성",
     "CS면접/네이버 준비",
     "CS/DB",
-    "Pasted image 20240411221851.png",
-    "카테캠"
+    "Pasted image 20240411221851.png"
   ]
 }
