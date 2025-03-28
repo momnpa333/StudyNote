@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS면접/네트워크/네트워크.md",
+                "file": "git Actions/GitHub Actions 의 이해.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "네트워크"
+              "title": "GitHub Actions 의 이해"
             }
           }
         ]
@@ -159,13 +159,13 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "3a65aa562693fa42",
+  "active": "b229b95062d0ca73",
   "lastOpenFiles": [
-    "CS면접/네트워크/라우터.md",
-    "CS면접/네트워크/웹소켓과 소켓.md",
     "CS면접/네트워크/네트워크.md",
-    "CS면접/네트워크/쿠키와 세션.md",
     "CS면접/네트워크/XSS에대해 설명.md",
+    "CS면접/네트워크/웹소켓과 소켓.md",
+    "CS면접/네트워크/라우터.md",
+    "CS면접/네트워크/쿠키와 세션.md",
     "CS면접/무제.md",
     "CS면접/네트워크",
     "CS면접/2주차/HTTP와 HTTPS의 차이.md",
