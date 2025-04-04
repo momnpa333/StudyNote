@@ -11,10 +11,14 @@
             "id": "bd0345748d22a233",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "CS면접/네트워크/계층모델.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "새 탭"
+              "title": "계층모델"
             }
           }
         ]
@@ -157,6 +161,8 @@
   },
   "active": "bd0345748d22a233",
   "lastOpenFiles": [
+    "Pasted image 20250404225854.png",
+    "CS/컴퓨터 구조/네이버 CS 문제 대비.md",
     "CS면접/네트워크/네트워크 기기.md",
     "CS면접/네트워크/네트워크.md",
     "CS면접/네트워크/XSS에대해 설명.md",
@@ -187,8 +193,6 @@
     "이더넷.md",
     "무제 파일.canvas",
     "낙서.md",
-    "2023-11-25.md",
-    "CS면접/토스/레디스.md",
     "CS/데이터베이스",
     "CS/컴퓨터 구조",
     "CS/운영체제",
