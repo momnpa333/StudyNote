@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS면접/네트워크/IP 주소.md",
+                "file": "CS면접/네트워크/계층모델.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "IP 주소"
+              "title": "계층모델"
             }
           }
         ]
@@ -161,10 +161,11 @@
   },
   "active": "bd0345748d22a233",
   "lastOpenFiles": [
-    "Pasted image 20250405021707.png",
-    "CS면접/네트워크/네트워크.md",
     "CS면접/네트워크/네트워크 기기.md",
+    "CS면접/네트워크/네트워크.md",
     "CS면접/네트워크/IP 주소.md",
+    "Pasted image 20250405120747.png",
+    "Pasted image 20250405021707.png",
     "CS면접/네트워크/웹소켓과 소켓.md",
     "CS면접/네트워크/쿠키와 세션.md",
     "CS면접/네트워크/라우터.md",
@@ -202,8 +203,6 @@
     "CS면접/토스",
     "CS면접/5주차",
     "Pasted image 20240501155313.png",
-    "Pasted image 20240501144023.png",
-    "Pasted image 20240501143912.png",
     "CS면접/4주차",
     "CS/디자인 패턴",
     "CS면접/인적성",
