@@ -13,12 +13,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS면접/데이터베이스/목차.md",
+                "file": "CS면접/운영체제/목차.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "목차"
+            }
+          },
+          {
+            "id": "327ddba90fe07dc9",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.10"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.10"
             }
           }
         ]
@@ -161,12 +173,14 @@
   },
   "active": "c1a34389766e2b27",
   "lastOpenFiles": [
+    "CS면접/데이터베이스/목차.md",
+    "CS면접/운영체제/목차.md",
+    "CS면접/운영체제",
     "CS면접/네트워크/쿠키와 세션.md",
     "CS면접/네트워크/웹소켓과 소켓.md",
     "CS면접/네트워크/네트워크 기기.md",
     "CS면접/네트워크/네트워크.md",
     "CS면접/네트워크/계층모델.md",
-    "CS면접/데이터베이스/목차.md",
     "git Actions/GitHub Actions 의 이해.md",
     "CS/데이터베이스/트랜잭션의 격리 수준(Isolation Level).md",
     "CS/데이터베이스/스토리지 엔진 수준의 락의 종류(레코드 락, 갭 락, 넥스트 키 락, 자동 증가 락).md",
@@ -181,7 +195,6 @@
     "CS면접/인적성/올리브영에 들어가고 싶은 이유.md",
     "CS면접/인적성/돌멩이와 협업하고 싶다고 한 이유.md",
     "CS면접/인적성/무제 파일.md",
-    "CS면접/무제",
     "Pasted image 20250408130455.png",
     "CS면접/네트워크/라우터.md",
     "CS면접/네트워크/IP 주소.md",
@@ -199,7 +212,6 @@
     "CS면접/2주차/HTTP와 HTTPS의 차이.md",
     "Pasted image 20240501143149.png",
     "Pasted image 20240501153215.png",
-    "CS면접/2주차/HTTP1 과 2의 차이.md",
     "무제 파일.canvas",
     "CS/데이터베이스",
     "CS/컴퓨터 구조",
