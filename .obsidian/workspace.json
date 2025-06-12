@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS면접/YBMNet/질문.md",
+                "file": "CS면접/YBMNet/기업분석.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "질문"
+              "title": "기업분석"
             }
           }
         ]
@@ -161,8 +161,8 @@
   },
   "active": "c1a34389766e2b27",
   "lastOpenFiles": [
-    "CS면접/YBMNet/기업분석.md",
     "CS면접/YBMNet/질문.md",
+    "CS면접/YBMNet/기업분석.md",
     "CS면접/프로젝트/질문 목록.md",
     "CS면접/데이터베이스/목차.md",
     "CS면접/포폴질문/질문.md",
