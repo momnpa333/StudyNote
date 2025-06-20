@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "현대 소프티어/한경준.md",
+                "file": "현대 소프티어/김원기.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "한경준"
+              "title": "김원기"
             }
           }
         ],
@@ -176,8 +176,11 @@
   },
   "active": "2c430e84667a2347",
   "lastOpenFiles": [
-    "CS면접/프로젝트/@Async 와 Redis INCR 활용 성능 개선.md",
+    "현대 소프티어/김관준.md",
+    "현대 소프티어/김원기.md",
+    "Pasted image 20250620153521.png",
     "현대 소프티어/한경준.md",
+    "CS면접/프로젝트/@Async 와 Redis INCR 활용 성능 개선.md",
     "현대 소프티어",
     "무제 파일.canvas",
     "무제 1.md",
@@ -203,7 +206,6 @@
     "CS면접/토스/프로젝트 소개.md",
     "CS면접/토스/샤딩.md",
     "CS면접/토스/자기소개.md",
-    "CS면접/토스/레디스.md",
     "CS면접/포폴질문",
     "CS면접/YBMNet",
     "Pasted image 20250525123054.png",
@@ -218,7 +220,6 @@
     "Pasted image 20250405004405.png",
     "Pasted image 20250404225854.png",
     "Pasted image 20250404171356.png",
-    "Pasted image 20250403204438.png",
     "CS면접/네트워크",
     "CS/데이터베이스",
     "CS/컴퓨터 구조"
