@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e98b99b0624328dd",
+        "id": "1c0d40bbc7ea2592",
         "type": "tabs",
         "children": [
           {
-            "id": "939d5ac089b9a61d",
+            "id": "28fc6157bafe90b5",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -94,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "현대 소프티어/내꺼.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "백링크"
+              "title": "내꺼 의 백링크"
             }
           },
           {
@@ -146,7 +147,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -159,10 +160,10 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "939d5ac089b9a61d",
+  "active": "28fc6157bafe90b5",
   "lastOpenFiles": [
-    "현대 소프티어/권다운.md",
     "현대 소프티어/내꺼.md",
+    "현대 소프티어/권다운.md",
     "현대 소프티어/한경준.md",
     "현대 소프티어/김관주.md",
     "현대 소프티어/김원기.md",
