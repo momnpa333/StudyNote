@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4c3bed1d98e75b21",
+        "id": "1f362a4e114d4943",
         "type": "tabs",
         "children": [
           {
-            "id": "148a3273cd001293",
+            "id": "f3aabc6cee063c1a",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -156,9 +156,10 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "148a3273cd001293",
+  "active": "f3aabc6cee063c1a",
   "lastOpenFiles": [
     "CS면접/운영체제/목차.md",
+    "CS면접/데이터베이스/목차.md",
     "현대 소프티어/내꺼.md",
     "현대 소프티어/권다운.md",
     "현대 소프티어/한경준.md",
@@ -178,7 +179,6 @@
     "현대 소프티어",
     "무제 파일.canvas",
     "무제 1.md",
-    "CS면접/데이터베이스/목차.md",
     "CS면접/네트워크/웹소켓과 소켓.md",
     "CS면접/네트워크/라우터.md",
     "CS면접/네트워크/네트워크 기기.md",
