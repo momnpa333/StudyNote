@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS면접/운영체제/목차.md",
+                "file": "CS면접/Java 및 Spring/목차.md",
                 "mode": "source",
                 "source": false
               },
@@ -162,8 +162,10 @@
   },
   "active": "7b89bd805cef8d60",
   "lastOpenFiles": [
-    "CS면접/프로젝트/@Async 와 Redis INCR 활용 성능 개선.md",
     "CS면접/운영체제/목차.md",
+    "CS면접/Java 및 Spring/목차.md",
+    "CS면접/Java 및 Spring",
+    "CS면접/프로젝트/@Async 와 Redis INCR 활용 성능 개선.md",
     "CS면접/데이터베이스/목차.md",
     "Pasted image 20250715020958.png",
     "현대 소프티어/내꺼.md",
@@ -206,7 +208,6 @@
     "Pasted image 20250405004405.png",
     "Pasted image 20250404225854.png",
     "CS면접/네트워크",
-    "CS/데이터베이스",
-    "CS/컴퓨터 구조"
+    "CS/데이터베이스"
   ]
 }
