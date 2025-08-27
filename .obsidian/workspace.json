@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS면접/네트워크/목차.md",
+                "file": "취업/현대 오토에버 회사 분석.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "목차"
+              "title": "현대 오토에버 회사 분석"
             }
           }
         ]
@@ -162,8 +162,10 @@
   },
   "active": "bbb1fb6bf563cecf",
   "lastOpenFiles": [
-    "CS면접/네트워크/쿠키와 세션.md",
+    "취업/현대 오토에버 질문목록.md",
+    "취업/현대 오토에버 회사 분석.md",
     "CS면접/네트워크/목차.md",
+    "CS면접/네트워크/쿠키와 세션.md",
     "CS면접/네트워크/계층모델.md",
     "CS면접/네트워크/무제",
     "CS면접/네트워크/XSS에대해 설명.md",
@@ -189,8 +191,6 @@
     "Pasted image 20250715020958.png",
     "현대 소프티어/내꺼.md",
     "현대 소프티어/권다운.md",
-    "현대 소프티어/한경준.md",
-    "현대 소프티어/김관주.md",
     "Pasted image 20250620153521.png",
     "현대 소프티어",
     "무제 파일.canvas",
