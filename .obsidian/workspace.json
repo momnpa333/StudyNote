@@ -11,10 +11,14 @@
             "id": "49ffbfe082c1d65d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "CS면접/운영체제/2회독.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "새 탭"
+              "title": "2회독"
             }
           }
         ]
@@ -158,7 +162,8 @@
   },
   "active": "49ffbfe082c1d65d",
   "lastOpenFiles": [
-    "CS면접/운영체제/목차.md",
+    "CS면접/운영체제/1회독.md",
+    "CS면접/운영체제/2회독.md",
     "CS면접/네트워크/목차.md",
     "CS면접/네트워크/웹소켓과 소켓.md",
     "CS면접/네트워크/라우터.md",
@@ -184,7 +189,6 @@
     "CS면접/네트워크/IP 주소.md",
     "스프링/스프링 기본편.md",
     "CS/컴퓨터 구조/네이버 CS 문제 대비.md",
-    "CS면접/3주차/JVM의 구조와 동작방식.md",
     "CS면접/Java 및 Spring",
     "Pasted image 20250715020958.png",
     "Pasted image 20250620153521.png",
