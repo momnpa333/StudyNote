@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "e8dd6ba4ad5e1020",
+        "id": "abdc732783936390",
         "type": "tabs",
         "children": [
           {
-            "id": "bbb1fb6bf563cecf",
+            "id": "49ffbfe082c1d65d",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "그래프 뷰"
+              "icon": "lucide-file",
+              "title": "새 탭"
             }
           }
         ]
@@ -156,9 +156,15 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "bbb1fb6bf563cecf",
+  "active": "49ffbfe082c1d65d",
   "lastOpenFiles": [
+    "CS면접/운영체제/목차.md",
     "CS면접/네트워크/목차.md",
+    "CS면접/네트워크/웹소켓과 소켓.md",
+    "CS면접/네트워크/라우터.md",
+    "CS면접/네트워크/네트워크 기기.md",
+    "CS면접/네트워크/네트워크.md",
+    "CS면접/네트워크/계층모델.md",
     "CS면접/Java 및 Spring/목차.md",
     "CS/데이터베이스/스토리지 엔진 수준의 락의 종류(레코드 락, 갭 락, 넥스트 키 락, 자동 증가 락).md",
     "CS/데이터베이스/트랜잭션 ACID.md",
@@ -170,18 +176,12 @@
     "CS면접/2주차/HTTP1 과 2의 차이.md",
     "CS면접/2주차/캐시의 교환정책.md",
     "CS면접/2주차/백엔드를 선택한 이유.md",
-    "CS면접/운영체제/목차.md",
     "취업/현대 오토에버 회사 분석.md",
     "취업/현대 오토에버 질문목록.md",
     "CS면접/네트워크/쿠키와 세션.md",
-    "CS면접/네트워크/계층모델.md",
     "CS면접/네트워크/무제",
     "CS면접/네트워크/XSS에대해 설명.md",
     "CS면접/네트워크/IP 주소.md",
-    "CS면접/네트워크/웹소켓과 소켓.md",
-    "CS면접/네트워크/라우터.md",
-    "CS면접/네트워크/네트워크 기기.md",
-    "CS면접/네트워크/네트워크.md",
     "스프링/스프링 기본편.md",
     "CS/컴퓨터 구조/네이버 CS 문제 대비.md",
     "CS면접/3주차/JVM의 구조와 동작방식.md",
