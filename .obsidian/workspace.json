@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "싸피/공통질문.md",
+                "file": "싸피/PT 면접 준비.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "공통질문"
+              "title": "PT 면접 준비"
             }
           }
         ],
@@ -178,8 +178,8 @@
   },
   "active": "066baca8c0e1fa3b",
   "lastOpenFiles": [
-    "싸피/PT 면접 준비.md",
     "싸피/공통질문.md",
+    "싸피/PT 면접 준비.md",
     "취업/기술 면접의 목적.md",
     "CS면접/Java 및 Spring/목차.md",
     "싸피",
