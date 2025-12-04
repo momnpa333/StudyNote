@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "싸피/PT 면접 준비.md",
+                "file": "싸피/공통질문.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "PT 면접 준비"
+              "title": "공통질문"
             }
           }
         ],
@@ -178,8 +178,9 @@
   },
   "active": "066baca8c0e1fa3b",
   "lastOpenFiles": [
-    "싸피/공통질문.md",
+    "취업/기술 면접의 목적.md",
     "싸피/PT 면접 준비.md",
+    "싸피/공통질문.md",
     "CS면접/Java 및 Spring/목차.md",
     "싸피",
     "CS면접/네트워크/목차.md",
@@ -204,7 +205,6 @@
     "CS면접/2주차/HTTP1 과 2의 차이.md",
     "CS면접/2주차/캐시의 교환정책.md",
     "CS면접/2주차/백엔드를 선택한 이유.md",
-    "취업/현대 오토에버 회사 분석.md",
     "CS면접/네트워크/무제",
     "CS면접/Java 및 Spring",
     "Pasted image 20250715020958.png",
