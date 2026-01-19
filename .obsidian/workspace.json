@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS면접/Java 및 Spring/목차.md",
+                "file": "CS면접/운영체제/2회독.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "목차"
+              "title": "2회독"
             }
           }
         ],
@@ -178,12 +178,12 @@
   },
   "active": "066baca8c0e1fa3b",
   "lastOpenFiles": [
+    "CS면접/Java 및 Spring/목차.md",
     "CS면접/운영체제/2회독.md",
     "CS면접/네트워크/목차.md",
     "CS면접/네트워크/계층모델.md",
     "CS면접/데이터베이스/목차.md",
     "CS면접/운영체제/1회독.md",
-    "CS면접/Java 및 Spring/목차.md",
     "CS면접/3주차/JVM의 구조와 동작방식.md",
     "CS/데이터베이스/SQL DDL.md",
     "CS/데이터베이스/트랜잭션의 격리 수준(Isolation Level).md",
