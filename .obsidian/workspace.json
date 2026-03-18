@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS면접/데이터베이스/목차.md",
+                "file": "CS면접/네트워크/목차.md",
                 "mode": "source",
                 "source": false
               },
@@ -178,6 +178,8 @@
   },
   "active": "07a83344bad8e092",
   "lastOpenFiles": [
+    "CS면접/네트워크/웹소켓과 소켓.md",
+    "CS면접/데이터베이스/목차.md",
     "CS면접/자료구조,알고리즘/정리.md",
     "Pasted image 20260223214757.png",
     "Pasted image 20260211015541.png",
@@ -203,7 +205,6 @@
     "CS면접/Java 및 Spring/목차.md",
     "CS면접/자료구조,알고리즘",
     "CS면접/운영체제/2회독.md",
-    "CS면접/데이터베이스/목차.md",
     "CS면접/네트워크/계층모델.md",
     "CS면접/운영체제/1회독.md",
     "CS면접/3주차/JVM의 구조와 동작방식.md",
