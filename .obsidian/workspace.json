@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS면접/Java 및 Spring/목차.md",
+                "file": "CS면접/3주차/JVM의 구조와 동작방식.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "목차"
+              "title": "JVM의 구조와 동작방식"
             }
           }
         ],
@@ -178,8 +178,8 @@
   },
   "active": "07a83344bad8e092",
   "lastOpenFiles": [
-    "CS면접/3주차/JVM의 구조와 동작방식.md",
     "CS면접/Java 및 Spring/목차.md",
+    "CS면접/3주차/JVM의 구조와 동작방식.md",
     "CS면접/네트워크/목차.md",
     "CS면접/네트워크/웹소켓과 소켓.md",
     "CS면접/데이터베이스/목차.md",
